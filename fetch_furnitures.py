@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 import argparse
+import html
 import json
 import os
 import sys
 from collections import Counter
 from datetime import datetime, timezone
-from typing import Any, Dict, Iterable, List, Tuple
+from typing import Any, Dict, Iterable, List
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
@@ -91,14 +92,54 @@ def build_output(payload: Any) -> Dict[str, Any]:
     else:
         raise ValueError("Le payload JSON n'est ni une liste ni un objet.")
 
-    shades = find_shade_objects(payload)
+    # Prefer the explicit top-level shades array when available.
+    if isinstance(payload, dict) and isinstance(payload.get("shades"), list):
+        shades = payload["shades"]
+    else:
+        shades = find_shade_objects(payload)
+    furniture_name: str | None = None
+    if isinstance(payload, dict):
+        if isinstance(payload.get("furniture"), dict):
+            furniture_name = payload["furniture"].get("name")
+        if not furniture_name:
+            furniture_name = payload.get("name")
+
     return {
         "generated_at": datetime.now(timezone.utc).isoformat(),
+        "name": furniture_name,
         "total_accessories": len(accessories),
         "accessories": accessories,
         "shades": shades,
         "shade_stats": shade_stats(shades, accessories),
     }
+
+
+def export_xls(path: str, furniture_name: str, total_accessories: int, total_shades: int) -> None:
+    # Excel opens this HTML table when saved with .xls extension.
+    html_doc = f"""<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Furniture Export</title>
+</head>
+<body>
+<table border="1">
+  <tr>
+    <th>name</th>
+    <th>nbr Accessoir</th>
+    <th>nbr shade</th>
+  </tr>
+  <tr>
+    <td>{html.escape(furniture_name)}</td>
+    <td>{total_accessories}</td>
+    <td>{total_shades}</td>
+  </tr>
+</table>
+</body>
+</html>
+"""
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(html_doc)
 
 
 def parse_args() -> argparse.Namespace:
@@ -116,6 +157,10 @@ def parse_args() -> argparse.Namespace:
         help="Lit les données depuis un fichier JSON local (utile pour test sans API).",
     )
     parser.add_argument("--out", help="Fichier de sortie JSON. Sinon stdout.")
+    parser.add_argument(
+        "--xls-out",
+        help="Exporte un fichier Excel .xls avec 3 colonnes: name, nbr Accessoir, nbr shade.",
+    )
     parser.add_argument("--pretty", action="store_true", help="JSON indenté.")
     return parser.parse_args()
 
@@ -162,6 +207,12 @@ def main() -> int:
                 f.write("\n")
     else:
         print(json_text)
+
+    if args.xls_out:
+        furniture_name = result.get("name") or f"furniture_{args.furniture_id}"
+        total_accessories = int(result.get("total_accessories", 0))
+        total_shades = int(result.get("shade_stats", {}).get("total_shades", 0))
+        export_xls(args.xls_out, furniture_name, total_accessories, total_shades)
 
     return 0
 
