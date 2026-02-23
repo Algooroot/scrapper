@@ -1,0 +1,3011 @@
+{
+  "generated_at": "2026-02-23T11:57:38.514843+00:00",
+  "source_ids_json": "furniture_ids_catalog_111_published_sans_duplicata_sans_kite.json",
+  "total_ids": 375,
+  "total_ok": 375,
+  "total_error": 0,
+  "sum_accessories_ok": 9965,
+  "sum_shades_ok": 114363,
+  "items": [
+    {
+      "furniture_id": 8762,
+      "name": "Stressless® Magic",
+      "total_accessories": 19,
+      "total_shades": 325,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 8763,
+      "name": "Stressless® Mayfair",
+      "total_accessories": 19,
+      "total_shades": 325,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 8765,
+      "name": "Stressless® Reno",
+      "total_accessories": 21,
+      "total_shades": 199,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 11081,
+      "name": "Stressless® Consul",
+      "total_accessories": 19,
+      "total_shades": 325,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 11228,
+      "name": "Stressless® Sunrise",
+      "total_accessories": 19,
+      "total_shades": 325,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 11264,
+      "name": "Stressless® Ruby",
+      "total_accessories": 19,
+      "total_shades": 325,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 11271,
+      "name": "Stressless® View",
+      "total_accessories": 19,
+      "total_shades": 174,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 11274,
+      "name": "Stressless® Wing",
+      "total_accessories": 19,
+      "total_shades": 325,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 11282,
+      "name": "Stressless® London Low back",
+      "total_accessories": 3,
+      "total_shades": 316,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 11283,
+      "name": "Stressless® Paris Low back",
+      "total_accessories": 3,
+      "total_shades": 316,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 14510,
+      "name": "Stressless® London High back",
+      "total_accessories": 3,
+      "total_shades": 316,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 14511,
+      "name": "Stressless® Paris High back",
+      "total_accessories": 3,
+      "total_shades": 316,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 15924,
+      "name": "Build your own",
+      "total_accessories": 19,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 18869,
+      "name": "Stressless® Buckingham",
+      "total_accessories": 6,
+      "total_shades": 325,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 19809,
+      "name": "Stressless® Windsor",
+      "total_accessories": 3,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 20814,
+      "name": "Stressless® Saga Corner",
+      "total_accessories": 2,
+      "total_shades": 324,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 20831,
+      "name": "Stressless® Saga avec bois dossier haut",
+      "total_accessories": 2,
+      "total_shades": 331,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 21103,
+      "name": "Stressless® Chilli Low",
+      "total_accessories": 13,
+      "total_shades": 311,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 21104,
+      "name": "Stressless® Tokyo Low back",
+      "total_accessories": 3,
+      "total_shades": 315,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 21105,
+      "name": "Stressless® Laurel Low",
+      "total_accessories": 20,
+      "total_shades": 312,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 21106,
+      "name": "Stressless® Tokyo High back",
+      "total_accessories": 3,
+      "total_shades": 315,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 21112,
+      "name": "Stressless® Laurel High",
+      "total_accessories": 20,
+      "total_shades": 312,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 21113,
+      "name": "Stressless® Chilli High",
+      "total_accessories": 19,
+      "total_shades": 312,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 21271,
+      "name": "Build your own",
+      "total_accessories": 20,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 21276,
+      "name": "Build your own",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 21636,
+      "name": "Build your own",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 21734,
+      "name": "Stressless® Oslo",
+      "total_accessories": 3,
+      "total_shades": 171,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 21735,
+      "name": "Build your own",
+      "total_accessories": 11,
+      "total_shades": 326,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 21909,
+      "name": "Stressless® Tokyo Adjustable headrest",
+      "total_accessories": 3,
+      "total_shades": 315,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 21911,
+      "name": "Stressless® London Adjustable headrest",
+      "total_accessories": 3,
+      "total_shades": 316,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 21912,
+      "name": "Stressless® Paris Adjustable headrest",
+      "total_accessories": 3,
+      "total_shades": 316,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 22737,
+      "name": "Build your own",
+      "total_accessories": 12,
+      "total_shades": 206,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 22750,
+      "name": "Chair High back",
+      "total_accessories": 20,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 22752,
+      "name": "3 seater High back",
+      "total_accessories": 20,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 22754,
+      "name": "Stressless® Arion 19 A10",
+      "total_accessories": 20,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 22757,
+      "name": "Chair High back",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 22759,
+      "name": "3 seater High back",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 22761,
+      "name": "Stressless® Arion 19 A20",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 22764,
+      "name": "3 seater High back",
+      "total_accessories": 12,
+      "total_shades": 206,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 22768,
+      "name": "Chair Low back",
+      "total_accessories": 19,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 22769,
+      "name": "Chair High back",
+      "total_accessories": 19,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 22770,
+      "name": "2 seater Low back",
+      "total_accessories": 19,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 22771,
+      "name": "3 seater High back",
+      "total_accessories": 19,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 22772,
+      "name": "3 seater Low back",
+      "total_accessories": 19,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 22773,
+      "name": "Stressless® Wave",
+      "total_accessories": 19,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 22774,
+      "name": "Medium Corner 23 High back/Low back",
+      "total_accessories": 19,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 22793,
+      "name": "2.5 seater",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 22794,
+      "name": "1 seater with sidepanels",
+      "total_accessories": 6,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 22795,
+      "name": "Stressless® Stella",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 22796,
+      "name": "C2-2.5 seater",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 23010,
+      "name": "36m² - 6x6",
+      "total_accessories": 0,
+      "total_shades": 8,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 23011,
+      "name": "72m² - 9x8",
+      "total_accessories": 0,
+      "total_shades": 8,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 23012,
+      "name": "100m² - 10x10",
+      "total_accessories": 0,
+      "total_shades": 8,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 23013,
+      "name": "150m² - 15x10",
+      "total_accessories": 0,
+      "total_shades": 8,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 23014,
+      "name": "200m² - 20 x10",
+      "total_accessories": 0,
+      "total_shades": 8,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 24781,
+      "name": "50m² - 5x10",
+      "total_accessories": 0,
+      "total_shades": 0,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 25065,
+      "name": "3 seater High back",
+      "total_accessories": 11,
+      "total_shades": 326,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 25066,
+      "name": "2 seater Low back",
+      "total_accessories": 11,
+      "total_shades": 326,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 25067,
+      "name": "Stressless® Sapphire",
+      "total_accessories": 11,
+      "total_shades": 326,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 25068,
+      "name": "3 seater Low back",
+      "total_accessories": 11,
+      "total_shades": 326,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 25274,
+      "name": "Stressless® Emily",
+      "total_accessories": 24,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 25529,
+      "name": "Stressless® Emily Steel",
+      "total_accessories": 29,
+      "total_shades": 281,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 25530,
+      "name": "2 seater + Long Seat (M) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 281,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 25531,
+      "name": "3 seater + Long Seat (M) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 281,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 25532,
+      "name": "Chair with Power",
+      "total_accessories": 29,
+      "total_shades": 281,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 25541,
+      "name": "Build your own",
+      "total_accessories": 29,
+      "total_shades": 281,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 28441,
+      "name": "2 seater with 1 headrest",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 37231,
+      "name": "Stressless® Sam Wood",
+      "total_accessories": 6,
+      "total_shades": 174,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 37977,
+      "name": "Stressless® Admiral",
+      "total_accessories": 9,
+      "total_shades": 119,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 38491,
+      "name": "Stressless® Mint High Back",
+      "total_accessories": 13,
+      "total_shades": 312,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 38492,
+      "name": "Stressless® Mint",
+      "total_accessories": 13,
+      "total_shades": 312,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 39395,
+      "name": "Stressless® Max",
+      "total_accessories": 12,
+      "total_shades": 61,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 39396,
+      "name": "Stressless® Mike",
+      "total_accessories": 12,
+      "total_shades": 56,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 40436,
+      "name": "Build your own",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 41632,
+      "name": "1 seater with sidepanels",
+      "total_accessories": 6,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 41633,
+      "name": "Stressless® Ella",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 41634,
+      "name": "2 seater with 1 headrest",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 41635,
+      "name": "2.5 seater",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 41636,
+      "name": "2.5 seater with 1 headrest",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 41637,
+      "name": "3 seater",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 41638,
+      "name": "3 seater with 1 headrest",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 41639,
+      "name": "C22",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 41640,
+      "name": "C2-2.5",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 41641,
+      "name": "C2-3 seater",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 41642,
+      "name": "C2.5-3seater",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 41643,
+      "name": "C2.5-2.5 seater",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 43020,
+      "name": "Stressless® Bordeaux dining table",
+      "total_accessories": 2,
+      "total_shades": 5,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 43021,
+      "name": "Stressless® Bordeaux Round dining table",
+      "total_accessories": 0,
+      "total_shades": 5,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 43315,
+      "name": "3 seater",
+      "total_accessories": 29,
+      "total_shades": 281,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 44568,
+      "name": "Stressless® Erik",
+      "total_accessories": 17,
+      "total_shades": 325,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 44958,
+      "name": "Stressless® Double Ottoman",
+      "total_accessories": 0,
+      "total_shades": 307,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 44959,
+      "name": "Stressless® Table Double Pouf",
+      "total_accessories": 0,
+      "total_shades": 315,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 44963,
+      "name": "Stressless® Ella Ottoman",
+      "total_accessories": 2,
+      "total_shades": 336,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 44964,
+      "name": "Stressless® Table Ellipse",
+      "total_accessories": 0,
+      "total_shades": 10,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 44969,
+      "name": "Stressless® Modern Ottoman",
+      "total_accessories": 2,
+      "total_shades": 307,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 44973,
+      "name": "Stressless® Stella Ottoman",
+      "total_accessories": 2,
+      "total_shades": 326,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 44976,
+      "name": "Stressless® Swing table",
+      "total_accessories": 0,
+      "total_shades": 10,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 44977,
+      "name": "Stressless® Table Urban Star",
+      "total_accessories": 2,
+      "total_shades": 4,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 44978,
+      "name": "Stressless® table USB A",
+      "total_accessories": 1,
+      "total_shades": 10,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 47437,
+      "name": "3 seater",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 47438,
+      "name": "C 2-3 seater",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 47439,
+      "name": "3 seater with 1 headrest",
+      "total_accessories": 19,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 47440,
+      "name": "2.5 seater with 1 headrest",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 47441,
+      "name": "C 2.5 - 3 seater",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 47442,
+      "name": "C 2.5-2.5 seater",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 47443,
+      "name": "C22",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 48788,
+      "name": "C23",
+      "total_accessories": 37,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 48789,
+      "name": "C2-2.5",
+      "total_accessories": 37,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 48790,
+      "name": "C22",
+      "total_accessories": 37,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 48791,
+      "name": "Stressless® Fiona",
+      "total_accessories": 37,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 48792,
+      "name": "2.5 seater",
+      "total_accessories": 37,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 48793,
+      "name": "3 seater",
+      "total_accessories": 37,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 48794,
+      "name": "Build your own",
+      "total_accessories": 37,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 48825,
+      "name": "C23",
+      "total_accessories": 38,
+      "total_shades": 304,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 48826,
+      "name": "C2-2.5",
+      "total_accessories": 38,
+      "total_shades": 304,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 48827,
+      "name": "C22",
+      "total_accessories": 38,
+      "total_shades": 304,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 48828,
+      "name": "Stressless® Flora",
+      "total_accessories": 38,
+      "total_shades": 304,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 48829,
+      "name": "2.5 seater",
+      "total_accessories": 38,
+      "total_shades": 304,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 48830,
+      "name": "3 seater",
+      "total_accessories": 38,
+      "total_shades": 304,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 48831,
+      "name": "Build your own",
+      "total_accessories": 38,
+      "total_shades": 304,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 51933,
+      "name": "Build your own",
+      "total_accessories": 28,
+      "total_shades": 344,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 51934,
+      "name": "3 seater",
+      "total_accessories": 28,
+      "total_shades": 344,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 51935,
+      "name": "2.5 seater",
+      "total_accessories": 28,
+      "total_shades": 344,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 51936,
+      "name": "Stressless® Fiona Wood",
+      "total_accessories": 28,
+      "total_shades": 344,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 51937,
+      "name": "C22",
+      "total_accessories": 28,
+      "total_shades": 344,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 51938,
+      "name": "C2-2.5",
+      "total_accessories": 28,
+      "total_shades": 344,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 51939,
+      "name": "C23",
+      "total_accessories": 28,
+      "total_shades": 344,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 51940,
+      "name": "Build your own",
+      "total_accessories": 37,
+      "total_shades": 339,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 51941,
+      "name": "3 seater",
+      "total_accessories": 37,
+      "total_shades": 339,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 51942,
+      "name": "2.5 seater",
+      "total_accessories": 37,
+      "total_shades": 339,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 51943,
+      "name": "Stressless® Fiona Steel",
+      "total_accessories": 37,
+      "total_shades": 339,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 51944,
+      "name": "C22",
+      "total_accessories": 37,
+      "total_shades": 339,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 51945,
+      "name": "C2-2.5",
+      "total_accessories": 37,
+      "total_shades": 339,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 51946,
+      "name": "C23",
+      "total_accessories": 37,
+      "total_shades": 339,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52549,
+      "name": "Stressless® Mint Home Office Low back",
+      "total_accessories": 5,
+      "total_shades": 305,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52550,
+      "name": "Stressless® Mint Home Office High back",
+      "total_accessories": 5,
+      "total_shades": 305,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52553,
+      "name": "Stressless® Chilli Home Office High back",
+      "total_accessories": 5,
+      "total_shades": 305,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52554,
+      "name": "Stressless® Laurel Home Office High back",
+      "total_accessories": 5,
+      "total_shades": 305,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52555,
+      "name": "Stressless® Laurel Home Office Low back",
+      "total_accessories": 5,
+      "total_shades": 305,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52556,
+      "name": "Stressless® Chilli Home Office Low back",
+      "total_accessories": 5,
+      "total_shades": 305,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52558,
+      "name": "Stressless® Paris Home Office Adjustable headrest",
+      "total_accessories": 2,
+      "total_shades": 315,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52559,
+      "name": "Stressless® London Home Office Adjustable headrest",
+      "total_accessories": 2,
+      "total_shades": 315,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52561,
+      "name": "Stressless® Tokyo Home Office Adjustable headrest",
+      "total_accessories": 2,
+      "total_shades": 314,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52562,
+      "name": "Stressless® Tokyo Home Office High back",
+      "total_accessories": 2,
+      "total_shades": 314,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52563,
+      "name": "Stressless® Tokyo Home Office Low back",
+      "total_accessories": 2,
+      "total_shades": 314,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52564,
+      "name": "Stressless® Paris Home Office High back",
+      "total_accessories": 2,
+      "total_shades": 315,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52565,
+      "name": "Stressless® London Home Office High back",
+      "total_accessories": 2,
+      "total_shades": 315,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52567,
+      "name": "Stressless® Paris Home Office Low back",
+      "total_accessories": 2,
+      "total_shades": 315,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52568,
+      "name": "Stressless® London Home Office Low back",
+      "total_accessories": 2,
+      "total_shades": 315,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52570,
+      "name": "Stressless® View Home Office",
+      "total_accessories": 2,
+      "total_shades": 173,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52572,
+      "name": "Stressless® Ruby Home Office",
+      "total_accessories": 2,
+      "total_shades": 324,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52575,
+      "name": "Stressless® Sunrise Home Office",
+      "total_accessories": 2,
+      "total_shades": 324,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52576,
+      "name": "Stressless® Consul Home Office",
+      "total_accessories": 2,
+      "total_shades": 324,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52577,
+      "name": "Stressless® Reno Home Office",
+      "total_accessories": 2,
+      "total_shades": 173,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52578,
+      "name": "Stressless® Mayfair Home Office",
+      "total_accessories": 2,
+      "total_shades": 324,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 52579,
+      "name": "Stressless® Magic Home Office",
+      "total_accessories": 2,
+      "total_shades": 324,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53122,
+      "name": "Build your own",
+      "total_accessories": 37,
+      "total_shades": 304,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53123,
+      "name": "3 seater",
+      "total_accessories": 37,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53124,
+      "name": "2.5 seater",
+      "total_accessories": 37,
+      "total_shades": 304,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53125,
+      "name": "C22",
+      "total_accessories": 37,
+      "total_shades": 304,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53126,
+      "name": "C2-2.5",
+      "total_accessories": 37,
+      "total_shades": 304,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53127,
+      "name": "C23",
+      "total_accessories": 37,
+      "total_shades": 304,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53128,
+      "name": "Stressless® Flora Wood",
+      "total_accessories": 37,
+      "total_shades": 275,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53950,
+      "name": "3 seater (with 2 Power seats)",
+      "total_accessories": 29,
+      "total_shades": 281,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53951,
+      "name": "4 seater (with 2 Power seats)",
+      "total_accessories": 29,
+      "total_shades": 281,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53952,
+      "name": "2 seater + Corner + 2 seater (with 2 Power seats)",
+      "total_accessories": 29,
+      "total_shades": 281,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53953,
+      "name": "1 seater + Center + Corner + 2 seater (with 2 Power seats)",
+      "total_accessories": 29,
+      "total_shades": 281,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53954,
+      "name": "2 seater + Corner + 2 seater + Long Seat (M) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 281,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53955,
+      "name": "3 seater",
+      "total_accessories": 29,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53956,
+      "name": "Chair with Power",
+      "total_accessories": 29,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53957,
+      "name": "3 seater + Long Seat (L) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53958,
+      "name": "2 seater + Long Seat (L) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53959,
+      "name": "Stressless® Emily Wood",
+      "total_accessories": 29,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53960,
+      "name": "3 seater (with 2 Power seats)",
+      "total_accessories": 29,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53961,
+      "name": "4 seater (with 2 Power seats)",
+      "total_accessories": 29,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53962,
+      "name": "2 seater + Corner + 2 seater (with 2 Power seats)",
+      "total_accessories": 29,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53963,
+      "name": "1 seater + Center + Corner + 2 seater (with 2 Power seats)",
+      "total_accessories": 29,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 53964,
+      "name": "2 seater + Corner + 2 seater + Long Seat (M) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 54153,
+      "name": "Build your own",
+      "total_accessories": 12,
+      "total_shades": 319,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 54154,
+      "name": "Chair with Power",
+      "total_accessories": 12,
+      "total_shades": 319,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 54155,
+      "name": "3 seater",
+      "total_accessories": 12,
+      "total_shades": 319,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 54156,
+      "name": "4 seater (with 2 Power seats)",
+      "total_accessories": 12,
+      "total_shades": 319,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 54157,
+      "name": "Stressless® Mary",
+      "total_accessories": 12,
+      "total_shades": 319,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 54158,
+      "name": "1 seater + Corner + 2 seater (with 2 Power seats)",
+      "total_accessories": 12,
+      "total_shades": 319,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 54159,
+      "name": "2 seater + Corner +2 seater (with 4 Power seats)",
+      "total_accessories": 12,
+      "total_shades": 319,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 54160,
+      "name": "Stressless® Mary Wood",
+      "total_accessories": 12,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 54161,
+      "name": "4 seater (with 2 Power seats)",
+      "total_accessories": 12,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 54162,
+      "name": "3 seater",
+      "total_accessories": 12,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 54163,
+      "name": "Chair with Power",
+      "total_accessories": 12,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 54164,
+      "name": "Build your own",
+      "total_accessories": 10,
+      "total_shades": 122,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 54165,
+      "name": "1 seater + Corner + 2 seater (with 2 Power seats)",
+      "total_accessories": 12,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 54166,
+      "name": "2 seater + Corner +2 seater (with 4 Power seats)",
+      "total_accessories": 12,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 54172,
+      "name": "Build your own",
+      "total_accessories": 29,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 58734,
+      "name": "Build your own",
+      "total_accessories": 29,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 58735,
+      "name": "Stressless® Emily Wide arm",
+      "total_accessories": 29,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 59178,
+      "name": "Chair with Power",
+      "total_accessories": 29,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 59179,
+      "name": "3 Seater",
+      "total_accessories": 29,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 59180,
+      "name": "2 seater + Long Seat (M) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 59181,
+      "name": "2 seater + Long Seat (L) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 59182,
+      "name": "2 seater + Center + Long Seat (M) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 59183,
+      "name": "2 seater + Center + Long Seat (L) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 59184,
+      "name": "Long seat (M)",
+      "total_accessories": 29,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 59185,
+      "name": "Long seat (L)",
+      "total_accessories": 29,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 59186,
+      "name": "3 seater + Long Seat (M) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 59187,
+      "name": "3 seater + Long Seat (L) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 59189,
+      "name": "2 seater + Corner + 2 seater + Long Seat (M) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 59190,
+      "name": "1 seater + Center + Corner + 2 seater (with 2 Power seats)",
+      "total_accessories": 29,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 59191,
+      "name": "4 seater (with 2 Power seats)",
+      "total_accessories": 29,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 60073,
+      "name": "Stressless® Bordeaux Round Center dining table",
+      "total_accessories": 0,
+      "total_shades": 7,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70593,
+      "name": "Stressless® Table Urban Cross",
+      "total_accessories": 2,
+      "total_shades": 4,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 71610,
+      "name": "Stressless® Wing Home Office",
+      "total_accessories": 2,
+      "total_shades": 194,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 71611,
+      "name": "Stressless® Erik Home Office",
+      "total_accessories": 2,
+      "total_shades": 324,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 71817,
+      "name": "1.25s w/LS (L) right",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 71818,
+      "name": "2 seater with Long Seat (M) left",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 71819,
+      "name": "1s w/LS (M) right",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 71820,
+      "name": "C21 w/LS (M) right",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 71821,
+      "name": "C22 w/LS (M) left",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 71822,
+      "name": "C2.5-1.25 w/LS (L) right",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 71823,
+      "name": "1.25s w/LS (L) right",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 71824,
+      "name": "2 seater with Long Seat (M) left",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 71825,
+      "name": "1s w/LS (M) right",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 71826,
+      "name": "C21 w/LS (M) right",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 71827,
+      "name": "C22 w/LS (M) left",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 71828,
+      "name": "C2.5-1.25 w/LS (L) right",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 71863,
+      "name": "1,25 seater with side panel",
+      "total_accessories": 6,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 71864,
+      "name": "1,25 seater with side panel",
+      "total_accessories": 6,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 72501,
+      "name": "Stressless® Vanilla Home Office High back",
+      "total_accessories": 5,
+      "total_shades": 306,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 72502,
+      "name": "Stressless® Vanilla Home Office Low back",
+      "total_accessories": 5,
+      "total_shades": 306,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 72503,
+      "name": "Stressless® Vanilla Low back",
+      "total_accessories": 13,
+      "total_shades": 313,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 72504,
+      "name": "Stressless® Vanilla High back",
+      "total_accessories": 13,
+      "total_shades": 313,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 73469,
+      "name": "Stressless® Stella Wood Ottoman",
+      "total_accessories": 2,
+      "total_shades": 333,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 73470,
+      "name": "Stressless® Ella Wood Ottoman",
+      "total_accessories": 2,
+      "total_shades": 343,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 73471,
+      "name": "Build your own",
+      "total_accessories": 15,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 73472,
+      "name": "Build your own",
+      "total_accessories": 17,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75603,
+      "name": "Stressless® Stella Wood",
+      "total_accessories": 17,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75604,
+      "name": "3 seater",
+      "total_accessories": 17,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75631,
+      "name": "C2-2 seater",
+      "total_accessories": 17,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75632,
+      "name": "C2-3 seater",
+      "total_accessories": 17,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75633,
+      "name": "C2,5-2,5 seater",
+      "total_accessories": 17,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75634,
+      "name": "2,5 seater",
+      "total_accessories": 17,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75635,
+      "name": "1 seater with sidepanels",
+      "total_accessories": 3,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75636,
+      "name": "C2,5-3 seater",
+      "total_accessories": 17,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75637,
+      "name": "3 seater with 1 headrest",
+      "total_accessories": 5,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75638,
+      "name": "2 seater with 1 headrest",
+      "total_accessories": 5,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75639,
+      "name": "2,5 seater with 1 headrest",
+      "total_accessories": 5,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75640,
+      "name": "C2-2,5 seater",
+      "total_accessories": 17,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75641,
+      "name": "2 seater with Long Seat (M) left",
+      "total_accessories": 17,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75642,
+      "name": "1 seater with Long Seat (M) right",
+      "total_accessories": 17,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75643,
+      "name": "1.25 seater with Long Seat (L) right",
+      "total_accessories": 17,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75644,
+      "name": "C2-2 seater with Long Seat (M) left",
+      "total_accessories": 17,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75645,
+      "name": "C2,5-1,25 seater with Long Seat (L) right",
+      "total_accessories": 17,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75646,
+      "name": "C2-1 seater with Long Seat (M) right",
+      "total_accessories": 17,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75647,
+      "name": "1 seater with Long Seat (M) right",
+      "total_accessories": 11,
+      "total_shades": 344,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75648,
+      "name": "1 seater with sidepanels",
+      "total_accessories": 10,
+      "total_shades": 344,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75649,
+      "name": "1.25 seater with Long Seat (L) right",
+      "total_accessories": 15,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75650,
+      "name": "Stressless® Ella Wood",
+      "total_accessories": 15,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75651,
+      "name": "2 seater with 1 headrest",
+      "total_accessories": 5,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75652,
+      "name": "2 seater with Long Seat (M) left",
+      "total_accessories": 15,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75653,
+      "name": "2,5 seater",
+      "total_accessories": 15,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75654,
+      "name": "2,5 seater with 1 headrest",
+      "total_accessories": 5,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75655,
+      "name": "3 seater",
+      "total_accessories": 15,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75656,
+      "name": "3 seater with 1 headrest",
+      "total_accessories": 5,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75657,
+      "name": "C2,5-2,5 seater",
+      "total_accessories": 15,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75658,
+      "name": "C2,5-3 seater",
+      "total_accessories": 15,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75659,
+      "name": "C2.5-1.25 seater with Long Seat (L) right",
+      "total_accessories": 15,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75660,
+      "name": "C2-1 seater with Long Seat (M) right",
+      "total_accessories": 15,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75661,
+      "name": "C2-2 seater",
+      "total_accessories": 15,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75662,
+      "name": "C2-2 seater with Long Seat (M) left",
+      "total_accessories": 15,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75663,
+      "name": "C2-2,5 seater",
+      "total_accessories": 15,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 75664,
+      "name": "C2-3 seater",
+      "total_accessories": 15,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 77648,
+      "name": "Stressless® David",
+      "total_accessories": 17,
+      "total_shades": 325,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 77649,
+      "name": "Stressless® David Home Office",
+      "total_accessories": 2,
+      "total_shades": 323,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 78952,
+      "name": "Stressless® Berlin Low back",
+      "total_accessories": 3,
+      "total_shades": 316,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 78953,
+      "name": "Stressless® Berlin Adjustable headrest",
+      "total_accessories": 3,
+      "total_shades": 316,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 78954,
+      "name": "Stressless® Berlin High back",
+      "total_accessories": 3,
+      "total_shades": 316,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 78955,
+      "name": "Stressless® Berlin Home Office Low back",
+      "total_accessories": 2,
+      "total_shades": 315,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 78956,
+      "name": "Stressless® Berlin Home Office Adjustable headrest",
+      "total_accessories": 2,
+      "total_shades": 315,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 78957,
+      "name": "Stressless® Berlin Home Office High back",
+      "total_accessories": 2,
+      "total_shades": 315,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79223,
+      "name": "3,5 seater",
+      "total_accessories": 15,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79224,
+      "name": "3,5 seater with 1 headrest",
+      "total_accessories": 15,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79225,
+      "name": "C2,5-3,5 seater",
+      "total_accessories": 15,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79226,
+      "name": "2,5 with Long Seat (L) right with 1 headrest",
+      "total_accessories": 8,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79227,
+      "name": "C2,5-2,5 with Long Seat (L) right",
+      "total_accessories": 8,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79228,
+      "name": "2,5 seater with Long Seat (L) left",
+      "total_accessories": 8,
+      "total_shades": 345,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79261,
+      "name": "3,5 seater",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79262,
+      "name": "3,5 seater with 1 headrest",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79263,
+      "name": "C2,5-3,5 seater",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79264,
+      "name": "2,5 with Long Seat (L) right with 1 headrest",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79265,
+      "name": "C2,5-2,5 with Long Seat (L) right",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79266,
+      "name": "2,5 seater with Long Seat (L) left",
+      "total_accessories": 22,
+      "total_shades": 337,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79267,
+      "name": "3,5 seater",
+      "total_accessories": 17,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79268,
+      "name": "3,5 seater with 1 headrest",
+      "total_accessories": 17,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79269,
+      "name": "C2,5-3,5 seater",
+      "total_accessories": 17,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79270,
+      "name": "2,5 with Long Seat (L) right with 1 headrest",
+      "total_accessories": 17,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79271,
+      "name": "C2,5-2,5 with Long Seat (L) right",
+      "total_accessories": 17,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79272,
+      "name": "2,5 seater with Long Seat (L) left",
+      "total_accessories": 17,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79274,
+      "name": "3,5 seater",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79275,
+      "name": "3,5 seater with 1 headrest",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79276,
+      "name": "C2,5-3,5 seater",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79277,
+      "name": "2,5 with Long Seat (L) right with 1 headrest",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79278,
+      "name": "C2,5-2,5 with Long Seat (L) right",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 79279,
+      "name": "2,5 seater with Long Seat (L) left",
+      "total_accessories": 19,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 80921,
+      "name": "Stressless® Bay Low back",
+      "total_accessories": 12,
+      "total_shades": 313,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 80922,
+      "name": "Stressless® Bay Home Office Low back",
+      "total_accessories": 5,
+      "total_shades": 306,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82464,
+      "name": "Build your own",
+      "total_accessories": 125,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82465,
+      "name": "Build your own",
+      "total_accessories": 120,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82466,
+      "name": "Build your own",
+      "total_accessories": 80,
+      "total_shades": 328,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82572,
+      "name": "Chair with Power",
+      "total_accessories": 125,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82573,
+      "name": "Stressless® Anna A1",
+      "total_accessories": 125,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82574,
+      "name": "3 seater (with  1 Power seat)",
+      "total_accessories": 125,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82575,
+      "name": "Long Seat",
+      "total_accessories": 27,
+      "total_shades": 328,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82576,
+      "name": "2 seater + Long seat (with 1 Power seat)",
+      "total_accessories": 125,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82577,
+      "name": "2 seater + Center + Long seat (with 1 Power seat)",
+      "total_accessories": 125,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82578,
+      "name": "3 seater + Long Seat (with 1 Power seat)",
+      "total_accessories": 125,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82579,
+      "name": "1 seater + Center + Corner + 2 seater (with 1 Power seat)",
+      "total_accessories": 125,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82580,
+      "name": "2 seater + Corner + 2seater (with 2 Power seats)",
+      "total_accessories": 125,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82581,
+      "name": "2 seater + Corner + 2 seater + Long Seat (with 1 Power seat)",
+      "total_accessories": 125,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82582,
+      "name": "EndBack left + 1 seater + Corner + 2 seater (with 1 Power seat)",
+      "total_accessories": 125,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82583,
+      "name": "EndBack left + 1 seater + Corner + 1 seater + Center + 1 seater + Long Seat (with 2 Power seats)",
+      "total_accessories": 125,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82584,
+      "name": "Chair with Power",
+      "total_accessories": 120,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82585,
+      "name": "Stressless® Anna A2",
+      "total_accessories": 120,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82586,
+      "name": "3 seater (with  1 Power seat)",
+      "total_accessories": 120,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82587,
+      "name": "Long Seat",
+      "total_accessories": 27,
+      "total_shades": 328,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82588,
+      "name": "2 seater + Long Seat (with 1 Power seat)",
+      "total_accessories": 120,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82589,
+      "name": "2 seater + Center + Long Seat (with 1 Power seat)",
+      "total_accessories": 120,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82590,
+      "name": "3 seater + Long Seat (with 1 Power seat)",
+      "total_accessories": 120,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82591,
+      "name": "1 seater + Center + Corner + 2 seater (with 1 Power seat)",
+      "total_accessories": 120,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82592,
+      "name": "2 seater + Corner + 2 seater (with 2 Power seats)",
+      "total_accessories": 120,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82593,
+      "name": "1 seater + Center + Corner + 2 seater + Long Seat (with 1 Power seat)",
+      "total_accessories": 120,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82594,
+      "name": "EndBack left + 1 seater + Corner + 2 seater (with 1 Power seat)",
+      "total_accessories": 120,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82595,
+      "name": "EndBack left + 1 seater + Corner + 1 seater + Center + 1 seater + Long Seat (with 2 Power seats)",
+      "total_accessories": 120,
+      "total_shades": 329,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82596,
+      "name": "Chair with Power",
+      "total_accessories": 80,
+      "total_shades": 328,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82597,
+      "name": "Stressless® Anna A3",
+      "total_accessories": 80,
+      "total_shades": 328,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82598,
+      "name": "3 seater (with  1 Power seat)",
+      "total_accessories": 80,
+      "total_shades": 328,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82599,
+      "name": "Long Seat",
+      "total_accessories": 23,
+      "total_shades": 328,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82600,
+      "name": "2 seater + Long Seat (with 1 Power seat)",
+      "total_accessories": 80,
+      "total_shades": 328,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82601,
+      "name": "2 seater + Center + Long seat (with 1 Power seat)",
+      "total_accessories": 80,
+      "total_shades": 328,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82602,
+      "name": "3 seater + Long Seat (with 1 Power seat)",
+      "total_accessories": 80,
+      "total_shades": 328,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82603,
+      "name": "1 seater + Center + Corner + 2 seater (with 1 Power seat)",
+      "total_accessories": 80,
+      "total_shades": 328,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82604,
+      "name": "2 seater + Corner + 2 seater (with 2 Power seats)",
+      "total_accessories": 80,
+      "total_shades": 328,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82605,
+      "name": "2 seater + Corner + 2 seater + Long Seat (with 1 Power seat)",
+      "total_accessories": 80,
+      "total_shades": 328,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82606,
+      "name": "EndBack left + 1 seater + Corner + 2 seater (with 1 Power seat)",
+      "total_accessories": 80,
+      "total_shades": 328,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 82607,
+      "name": "EndBack left + 1 seater + Corner + 1seater + Center + 1 seater + Long Seat (with 2 Power seats)",
+      "total_accessories": 80,
+      "total_shades": 328,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 89801,
+      "name": "2 seater (with 2 Power seats)",
+      "total_accessories": 29,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 89802,
+      "name": "3 seater (with 2 Power seats)",
+      "total_accessories": 29,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 89803,
+      "name": "2 seater + Corner + 2 seater (with 2 Power seats)",
+      "total_accessories": 29,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 89805,
+      "name": "2 seater + Long Seat (M) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 89806,
+      "name": "2 seater (with 2 Power seats)",
+      "total_accessories": 29,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 89807,
+      "name": "3 seater + Long Seat (M) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 89808,
+      "name": "Long Seat (M) with arms",
+      "total_accessories": 29,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 89809,
+      "name": "Long Seat (L) with arms",
+      "total_accessories": 29,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 89810,
+      "name": "2 seater + Center + Long Seat (M) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 89811,
+      "name": "2 seater + Center + Long Seat (L) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 89817,
+      "name": "2 seater (with 2 Power seats)",
+      "total_accessories": 29,
+      "total_shades": 281,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 89818,
+      "name": "3 seater + Long Seat (L) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 281,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 89819,
+      "name": "Long Seat (M) with arms",
+      "total_accessories": 29,
+      "total_shades": 281,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 89820,
+      "name": "Long Seat (L) with arms",
+      "total_accessories": 29,
+      "total_shades": 281,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 89821,
+      "name": "2 seater + Long Seat (L) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 281,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 89822,
+      "name": "2 seater + Center + Long Seat (M) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 281,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 89823,
+      "name": "2 seater + Center + Long Seat (L) (with 1 Power seat)",
+      "total_accessories": 29,
+      "total_shades": 281,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 91240,
+      "name": "1 seater + Angled module + 1 seater (with 2 power seat)",
+      "total_accessories": 29,
+      "total_shades": 334,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 91241,
+      "name": "1 seater + Angled module + 1 seater (with 2 power seat)",
+      "total_accessories": 29,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 91242,
+      "name": "1 seater + Angled module + 1 seater (with 2 power seat)",
+      "total_accessories": 29,
+      "total_shades": 281,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 91243,
+      "name": "Sector setup 121 High back",
+      "total_accessories": 11,
+      "total_shades": 326,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 91244,
+      "name": "Sector setup 121 High back",
+      "total_accessories": 19,
+      "total_shades": 335,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 93046,
+      "name": "Stressless® Paul ",
+      "total_accessories": 6,
+      "total_shades": 203,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 93047,
+      "name": "Stressless® Philip",
+      "total_accessories": 6,
+      "total_shades": 203,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 93201,
+      "name": "1 seater with side panels",
+      "total_accessories": 37,
+      "total_shades": 199,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 93796,
+      "name": "C12",
+      "total_accessories": 37,
+      "total_shades": 199,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 93797,
+      "name": "C12",
+      "total_accessories": 28,
+      "total_shades": 198,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 93798,
+      "name": " C12",
+      "total_accessories": 37,
+      "total_shades": 193,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 93799,
+      "name": " C12",
+      "total_accessories": 38,
+      "total_shades": 175,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 93800,
+      "name": " C12",
+      "total_accessories": 37,
+      "total_shades": 175,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 93801,
+      "name": "1 seater with side panels",
+      "total_accessories": 38,
+      "total_shades": 175,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 94469,
+      "name": "Stressless® Adam Power",
+      "total_accessories": 6,
+      "total_shades": 249,
+      "status": "ok",
+      "error": null
+    }
+  ]
+}
