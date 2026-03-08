@@ -1,0 +1,2294 @@
+[
+  {
+    "Nom": "Adam Power",
+    "REF": "1729710",
+    "Nbr Accessoire": "6",
+    "Texture": "249"
+  },
+  {
+    "Nom": "1 seater with side panels",
+    "REF": "1442214",
+    "Nbr Accessoire": "38",
+    "Texture": "175"
+  },
+  {
+    "Nom": " C12",
+    "REF": "1451089",
+    "Nbr Accessoire": "37",
+    "Texture": "175"
+  },
+  {
+    "Nom": " C12",
+    "REF": "1442089",
+    "Nbr Accessoire": "38",
+    "Texture": "175"
+  },
+  {
+    "Nom": " C12",
+    "REF": "1445089",
+    "Nbr Accessoire": "37",
+    "Texture": "193"
+  },
+  {
+    "Nom": "C12",
+    "REF": "1441089",
+    "Nbr Accessoire": "28",
+    "Texture": "198"
+  },
+  {
+    "Nom": "C12",
+    "REF": "1446089",
+    "Nbr Accessoire": "37",
+    "Texture": "199"
+  },
+  {
+    "Nom": "1 seater with side panels",
+    "REF": "144214",
+    "Nbr Accessoire": "37",
+    "Texture": "199"
+  },
+  {
+    "Nom": "Stressless® Philip",
+    "REF": "1723317",
+    "Nbr Accessoire": "6",
+    "Texture": "203"
+  },
+  {
+    "Nom": "Stressless® Paul ",
+    "REF": "1725317",
+    "Nbr Accessoire": "6",
+    "Texture": "203"
+  },
+  {
+    "Nom": "Sector setup 121 High back",
+    "REF": "",
+    "Nbr Accessoire": "19",
+    "Texture": "335"
+  },
+  {
+    "Nom": "Sector setup 121 High back",
+    "REF": "",
+    "Nbr Accessoire": "11",
+    "Texture": "326"
+  },
+  {
+    "Nom": "1 seater + Angled module + 1 seater (with 2 power seat)",
+    "REF": "",
+    "Nbr Accessoire": "29",
+    "Texture": "281"
+  },
+  {
+    "Nom": "1 seater + Angled module + 1 seater (with 2 power seat)",
+    "REF": "",
+    "Nbr Accessoire": "29",
+    "Texture": "335"
+  },
+  {
+    "Nom": "1 seater + Angled module + 1 seater (with 2 power seat)",
+    "REF": "",
+    "Nbr Accessoire": "29",
+    "Texture": "334"
+  },
+  {
+    "Nom": "2 seater + Center + Long Seat (L) (with 1 Power seat)",
+    "REF": "1469479",
+    "Nbr Accessoire": "29",
+    "Texture": "281"
+  },
+  {
+    "Nom": "2 seater + Center + Long Seat (M) (with 1 Power seat)",
+    "REF": "1469478",
+    "Nbr Accessoire": "29",
+    "Texture": "281"
+  },
+  {
+    "Nom": "2 seater + Long Seat (L) (with 1 Power seat)",
+    "REF": "1469897",
+    "Nbr Accessoire": "29",
+    "Texture": "281"
+  },
+  {
+    "Nom": "Long Seat (L) with arms",
+    "REF": "1469206",
+    "Nbr Accessoire": "29",
+    "Texture": "281"
+  },
+  {
+    "Nom": "Long Seat (M) with arms",
+    "REF": "1469200",
+    "Nbr Accessoire": "29",
+    "Texture": "281"
+  },
+  {
+    "Nom": "3 seater + Long Seat (L) (with 1 Power seat)",
+    "REF": "1469899",
+    "Nbr Accessoire": "29",
+    "Texture": "281"
+  },
+  {
+    "Nom": "2 seater (with 2 Power seats)",
+    "REF": "1469822",
+    "Nbr Accessoire": "29",
+    "Texture": "281"
+  },
+  {
+    "Nom": "2 seater + Center + Long Seat (L) (with 1 Power seat)",
+    "REF": "1470479",
+    "Nbr Accessoire": "29",
+    "Texture": "334"
+  },
+  {
+    "Nom": "2 seater + Center + Long Seat (M) (with 1 Power seat)",
+    "REF": "1470478",
+    "Nbr Accessoire": "29",
+    "Texture": "334"
+  },
+  {
+    "Nom": "Long Seat (L) with arms",
+    "REF": "1470206",
+    "Nbr Accessoire": "29",
+    "Texture": "334"
+  },
+  {
+    "Nom": "Long Seat (M) with arms",
+    "REF": "1470200",
+    "Nbr Accessoire": "29",
+    "Texture": "334"
+  },
+  {
+    "Nom": "3 seater + Long Seat (M) (with 1 Power seat)",
+    "REF": "1470866",
+    "Nbr Accessoire": "29",
+    "Texture": "334"
+  },
+  {
+    "Nom": "2 seater (with 2 Power seats)",
+    "REF": "1470822",
+    "Nbr Accessoire": "29",
+    "Texture": "281"
+  },
+  {
+    "Nom": "2 seater + Long Seat (M) (with 1 Power seat)",
+    "REF": "1470865",
+    "Nbr Accessoire": "29",
+    "Texture": "334"
+  },
+  {
+    "Nom": "2 seater + Corner + 2 seater (with 2 Power seats)",
+    "REF": "1471458",
+    "Nbr Accessoire": "29",
+    "Texture": "335"
+  },
+  {
+    "Nom": "3 seater (with 2 Power seats)",
+    "REF": "1471832",
+    "Nbr Accessoire": "29",
+    "Texture": "335"
+  },
+  {
+    "Nom": "2 seater (with 2 Power seats)",
+    "REF": "1471822",
+    "Nbr Accessoire": "29",
+    "Texture": "335"
+  },
+  {
+    "Nom": "EndBack left + 1 seater + Corner + 1seater + Center + 1 seater + Long Seat (with 2 Power seats)",
+    "REF": "1468536",
+    "Nbr Accessoire": "80",
+    "Texture": "328"
+  },
+  {
+    "Nom": "EndBack left + 1 seater + Corner + 2 seater (with 1 Power seat)",
+    "REF": "1468535",
+    "Nbr Accessoire": "80",
+    "Texture": "328"
+  },
+  {
+    "Nom": "2 seater + Corner + 2 seater + Long Seat (with 1 Power seat)",
+    "REF": "1468533",
+    "Nbr Accessoire": "80",
+    "Texture": "328"
+  },
+  {
+    "Nom": "2 seater + Corner + 2 seater (with 2 Power seats)",
+    "REF": "1468532",
+    "Nbr Accessoire": "80",
+    "Texture": "328"
+  },
+  {
+    "Nom": "1 seater + Center + Corner + 2 seater (with 1 Power seat)",
+    "REF": "1468531",
+    "Nbr Accessoire": "80",
+    "Texture": "328"
+  },
+  {
+    "Nom": "3 seater + Long Seat (with 1 Power seat)",
+    "REF": "1468530",
+    "Nbr Accessoire": "80",
+    "Texture": "328"
+  },
+  {
+    "Nom": "2 seater + Center + Long seat (with 1 Power seat)",
+    "REF": "1468516",
+    "Nbr Accessoire": "80",
+    "Texture": "328"
+  },
+  {
+    "Nom": "2 seater + Long Seat (with 1 Power seat)",
+    "REF": "1468512",
+    "Nbr Accessoire": "80",
+    "Texture": "328"
+  },
+  {
+    "Nom": "Long Seat",
+    "REF": "1468240",
+    "Nbr Accessoire": "23",
+    "Texture": "328"
+  },
+  {
+    "Nom": "3 seater (with  1 Power seat)",
+    "REF": "1468831",
+    "Nbr Accessoire": "80",
+    "Texture": "328"
+  },
+  {
+    "Nom": "Stressless® Anna A3",
+    "REF": "1468821",
+    "Nbr Accessoire": "80",
+    "Texture": "328"
+  },
+  {
+    "Nom": "Chair with Power",
+    "REF": "1468811",
+    "Nbr Accessoire": "80",
+    "Texture": "328"
+  },
+  {
+    "Nom": "EndBack left + 1 seater + Corner + 1 seater + Center + 1 seater + Long Seat (with 2 Power seats)",
+    "REF": "1467536",
+    "Nbr Accessoire": "120",
+    "Texture": "329"
+  },
+  {
+    "Nom": "EndBack left + 1 seater + Corner + 2 seater (with 1 Power seat)",
+    "REF": "1467535",
+    "Nbr Accessoire": "120",
+    "Texture": "329"
+  },
+  {
+    "Nom": "1 seater + Center + Corner + 2 seater + Long Seat (with 1 Power seat)",
+    "REF": "1467533",
+    "Nbr Accessoire": "120",
+    "Texture": "329"
+  },
+  {
+    "Nom": "2 seater + Corner + 2 seater (with 2 Power seats)",
+    "REF": "1467532",
+    "Nbr Accessoire": "120",
+    "Texture": "329"
+  },
+  {
+    "Nom": "1 seater + Center + Corner + 2 seater (with 1 Power seat)",
+    "REF": "1467531",
+    "Nbr Accessoire": "120",
+    "Texture": "329"
+  },
+  {
+    "Nom": "3 seater + Long Seat (with 1 Power seat)",
+    "REF": "1467530",
+    "Nbr Accessoire": "120",
+    "Texture": "329"
+  },
+  {
+    "Nom": "2 seater + Center + Long Seat (with 1 Power seat)",
+    "REF": "1467516",
+    "Nbr Accessoire": "120",
+    "Texture": "329"
+  },
+  {
+    "Nom": "2 seater + Long Seat (with 1 Power seat)",
+    "REF": "1467512",
+    "Nbr Accessoire": "120",
+    "Texture": "329"
+  },
+  {
+    "Nom": "Long Seat",
+    "REF": "1467240",
+    "Nbr Accessoire": "26",
+    "Texture": "328"
+  },
+  {
+    "Nom": "3 seater (with  1 Power seat)",
+    "REF": "1467831",
+    "Nbr Accessoire": "120",
+    "Texture": "329"
+  },
+  {
+    "Nom": "Stressless® Anna A2",
+    "REF": "1467821",
+    "Nbr Accessoire": "120",
+    "Texture": "329"
+  },
+  {
+    "Nom": "Chair with Power",
+    "REF": "1467811",
+    "Nbr Accessoire": "120",
+    "Texture": "329"
+  },
+  {
+    "Nom": "EndBack left + 1 seater + Corner + 1 seater + Center + 1 seater + Long Seat (with 2 Power seats)",
+    "REF": "1466536",
+    "Nbr Accessoire": "125",
+    "Texture": "329"
+  },
+  {
+    "Nom": "EndBack left + 1 seater + Corner + 2 seater (with 1 Power seat)",
+    "REF": "1466535",
+    "Nbr Accessoire": "125",
+    "Texture": "329"
+  },
+  {
+    "Nom": "2 seater + Corner + 2 seater + Long Seat (with 1 Power seat)",
+    "REF": "1466533",
+    "Nbr Accessoire": "125",
+    "Texture": "329"
+  },
+  {
+    "Nom": "2 seater + Corner + 2seater (with 2 Power seats)",
+    "REF": "1466532",
+    "Nbr Accessoire": "125",
+    "Texture": "329"
+  },
+  {
+    "Nom": "1 seater + Center + Corner + 2 seater (with 1 Power seat)",
+    "REF": "1466531",
+    "Nbr Accessoire": "125",
+    "Texture": "329"
+  },
+  {
+    "Nom": "3 seater + Long Seat (with 1 Power seat)",
+    "REF": "1466530",
+    "Nbr Accessoire": "125",
+    "Texture": "329"
+  },
+  {
+    "Nom": "2 seater + Center + Long seat (with 1 Power seat)",
+    "REF": "1466516",
+    "Nbr Accessoire": "125",
+    "Texture": "329"
+  },
+  {
+    "Nom": "2 seater + Long seat (with 1 Power seat)",
+    "REF": "1466512",
+    "Nbr Accessoire": "125",
+    "Texture": "329"
+  },
+  {
+    "Nom": "Long Seat",
+    "REF": "1466240",
+    "Nbr Accessoire": "26",
+    "Texture": "328"
+  },
+  {
+    "Nom": "3 seater (with  1 Power seat)",
+    "REF": "1466831",
+    "Nbr Accessoire": "125",
+    "Texture": "329"
+  },
+  {
+    "Nom": "Anna A1",
+    "REF": "1466821",
+    "Nbr Accessoire": "125",
+    "Texture": "329"
+  },
+  {
+    "Nom": "Chair with Power",
+    "REF": "1466811",
+    "Nbr Accessoire": "125",
+    "Texture": "329"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "",
+    "Nbr Accessoire": "80",
+    "Texture": "328"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "",
+    "Nbr Accessoire": "120",
+    "Texture": "329"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "",
+    "Nbr Accessoire": "125",
+    "Texture": "329"
+  },
+  {
+    "Nom": "Stressless® Bay Home Office Low back",
+    "REF": "183476",
+    "Nbr Accessoire": "5",
+    "Texture": "306"
+  },
+  {
+    "Nom": "Stressless® Bay Low back",
+    "REF": "18347",
+    "Nbr Accessoire": "12",
+    "Texture": "313"
+  },
+  {
+    "Nom": "2,5 seater with Long Seat (L) left",
+    "REF": "1420173",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "C2,5-2,5 with Long Seat (L) right",
+    "REF": "1420435",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "2,5 with Long Seat (L) right with 1 headrest",
+    "REF": "1420453",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "C2,5-3,5 seater",
+    "REF": "1420498",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "3,5 seater with 1 headrest",
+    "REF": "1420499",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "3,5 seater",
+    "REF": "1420172",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "2,5 seater with Long Seat (L) left",
+    "REF": "1460173",
+    "Nbr Accessoire": "17",
+    "Texture": "335"
+  },
+  {
+    "Nom": "C2,5-2,5 with Long Seat (L) right",
+    "REF": "1460435",
+    "Nbr Accessoire": "17",
+    "Texture": "335"
+  },
+  {
+    "Nom": "2,5 with Long Seat (L) right with 1 headrest",
+    "REF": "1460453",
+    "Nbr Accessoire": "17",
+    "Texture": "335"
+  },
+  {
+    "Nom": "C2,5-3,5 seater",
+    "REF": "1460498",
+    "Nbr Accessoire": "17",
+    "Texture": "335"
+  },
+  {
+    "Nom": "3,5 seater with 1 headrest",
+    "REF": "1460499",
+    "Nbr Accessoire": "17",
+    "Texture": "335"
+  },
+  {
+    "Nom": "3,5 seater",
+    "REF": "1460172",
+    "Nbr Accessoire": "17",
+    "Texture": "335"
+  },
+  {
+    "Nom": "2,5 seater with Long Seat (L) left",
+    "REF": "1422173",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "C2,5-2,5 with Long Seat (L) right",
+    "REF": "1422435",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "2,5 with Long Seat (L) right with 1 headrest",
+    "REF": "1422453",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "C2,5-3,5 seater",
+    "REF": "1422498",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "3,5 seater with 1 headrest",
+    "REF": "1422499",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "3,5 seater",
+    "REF": "1422172",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "2,5 seater with Long Seat (L) left",
+    "REF": "1462173",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "C2,5-2,5 with Long Seat (L) right",
+    "REF": "1462435",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "2,5 with Long Seat (L) right with 1 headrest",
+    "REF": "1462453",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "C2,5-3,5 seater",
+    "REF": "1462498",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "3,5 seater with 1 headrest",
+    "REF": "1462499",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "3,5 seater",
+    "REF": "1462172",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "Berlin Home Office High back",
+    "REF": "Berlin",
+    "Nbr Accessoire": "2",
+    "Texture": "315"
+  },
+  {
+    "Nom": "Berlin Home Office Adjustable headrest",
+    "REF": "Berlin",
+    "Nbr Accessoire": "2",
+    "Texture": "315"
+  },
+  {
+    "Nom": "Berlin Home Office Low back",
+    "REF": "Berlin",
+    "Nbr Accessoire": "2",
+    "Texture": "315"
+  },
+  {
+    "Nom": "Berlin High back",
+    "REF": "",
+    "Nbr Accessoire": "3",
+    "Texture": "316"
+  },
+  {
+    "Nom": "Berlin Adjustable headrest",
+    "REF": "",
+    "Nbr Accessoire": "3",
+    "Texture": "316"
+  },
+  {
+    "Nom": "Berlin Low back",
+    "REF": "",
+    "Nbr Accessoire": "3",
+    "Texture": "316"
+  },
+  {
+    "Nom": "David Home Office",
+    "REF": "1373096",
+    "Nbr Accessoire": "2",
+    "Texture": "323"
+  },
+  {
+    "Nom": "David",
+    "REF": "David",
+    "Nbr Accessoire": "17",
+    "Texture": "325"
+  },
+  {
+    "Nom": "C2-3 seater",
+    "REF": "1462082",
+    "Nbr Accessoire": "15",
+    "Texture": "345"
+  },
+  {
+    "Nom": "C2-2,5 seater",
+    "REF": "1462273",
+    "Nbr Accessoire": "15",
+    "Texture": "345"
+  },
+  {
+    "Nom": "C2-2 seater with Long Seat (M) left",
+    "REF": "1462492",
+    "Nbr Accessoire": "15",
+    "Texture": "345"
+  },
+  {
+    "Nom": "C2-2 seater",
+    "REF": "1462080",
+    "Nbr Accessoire": "15",
+    "Texture": "345"
+  },
+  {
+    "Nom": "C2-1 seater with Long Seat (M) right",
+    "REF": "1462497",
+    "Nbr Accessoire": "15",
+    "Texture": "345"
+  },
+  {
+    "Nom": "C2.5-1.25 seater with Long Seat (L) right",
+    "REF": "1462495",
+    "Nbr Accessoire": "15",
+    "Texture": "345"
+  },
+  {
+    "Nom": "C2,5-3 seater",
+    "REF": "1462231",
+    "Nbr Accessoire": "15",
+    "Texture": "345"
+  },
+  {
+    "Nom": "C2,5-2,5 seater",
+    "REF": "1462088",
+    "Nbr Accessoire": "15",
+    "Texture": "345"
+  },
+  {
+    "Nom": "3 seater with 1 headrest",
+    "REF": "1462264",
+    "Nbr Accessoire": "5",
+    "Texture": "345"
+  },
+  {
+    "Nom": "3 seater",
+    "REF": "1462030",
+    "Nbr Accessoire": "15",
+    "Texture": "345"
+  },
+  {
+    "Nom": "2,5 seater with 1 headrest",
+    "REF": "1462272",
+    "Nbr Accessoire": "5",
+    "Texture": "345"
+  },
+  {
+    "Nom": "2,5 seater",
+    "REF": "1462120",
+    "Nbr Accessoire": "15",
+    "Texture": "345"
+  },
+  {
+    "Nom": "2 seater with Long Seat (M) left",
+    "REF": "1462483",
+    "Nbr Accessoire": "15",
+    "Texture": "345"
+  },
+  {
+    "Nom": "2 seater with 1 headrest",
+    "REF": "1462271",
+    "Nbr Accessoire": "5",
+    "Texture": "345"
+  },
+  {
+    "Nom": "Ella Wood",
+    "REF": "1462020",
+    "Nbr Accessoire": "15",
+    "Texture": "345"
+  },
+  {
+    "Nom": "1.25 seater with Long Seat (L) right",
+    "REF": "1462487",
+    "Nbr Accessoire": "15",
+    "Texture": "345"
+  },
+  {
+    "Nom": "1 seater with sidepanels",
+    "REF": "1462214",
+    "Nbr Accessoire": "10",
+    "Texture": "344"
+  },
+  {
+    "Nom": "1 seater with Long Seat (M) right",
+    "REF": "1462485",
+    "Nbr Accessoire": "11",
+    "Texture": "344"
+  },
+  {
+    "Nom": "C2-1 seater with Long Seat (M) right",
+    "REF": "1460497",
+    "Nbr Accessoire": "17",
+    "Texture": "335"
+  },
+  {
+    "Nom": "C2,5-1,25 seater with Long Seat (L) right",
+    "REF": "1460495",
+    "Nbr Accessoire": "17",
+    "Texture": "335"
+  },
+  {
+    "Nom": "C2-2 seater with Long Seat (M) left",
+    "REF": "1460492",
+    "Nbr Accessoire": "17",
+    "Texture": "335"
+  },
+  {
+    "Nom": "1.25 seater with Long Seat (L) right",
+    "REF": "1460487",
+    "Nbr Accessoire": "17",
+    "Texture": "334"
+  },
+  {
+    "Nom": "1 seater with Long Seat (M) right",
+    "REF": "1460485",
+    "Nbr Accessoire": "17",
+    "Texture": "334"
+  },
+  {
+    "Nom": "2 seater with Long Seat (M) left",
+    "REF": "1460483",
+    "Nbr Accessoire": "17",
+    "Texture": "335"
+  },
+  {
+    "Nom": "C2-2,5 seater",
+    "REF": "1460273",
+    "Nbr Accessoire": "17",
+    "Texture": "335"
+  },
+  {
+    "Nom": "2,5 seater with 1 headrest",
+    "REF": "1460272",
+    "Nbr Accessoire": "5",
+    "Texture": "335"
+  },
+  {
+    "Nom": "2 seater with 1 headrest",
+    "REF": "1460271",
+    "Nbr Accessoire": "5",
+    "Texture": "335"
+  },
+  {
+    "Nom": "3 seater with 1 headrest",
+    "REF": "1460264",
+    "Nbr Accessoire": "5",
+    "Texture": "335"
+  },
+  {
+    "Nom": "C2,5-3 seater",
+    "REF": "1460231",
+    "Nbr Accessoire": "17",
+    "Texture": "335"
+  },
+  {
+    "Nom": "1 seater with sidepanels",
+    "REF": "1460214",
+    "Nbr Accessoire": "3",
+    "Texture": "334"
+  },
+  {
+    "Nom": "2,5 seater",
+    "REF": "1460120",
+    "Nbr Accessoire": "17",
+    "Texture": "335"
+  },
+  {
+    "Nom": "C2,5-2,5 seater",
+    "REF": "1460088",
+    "Nbr Accessoire": "17",
+    "Texture": "335"
+  },
+  {
+    "Nom": "C2-3 seater",
+    "REF": "1460082",
+    "Nbr Accessoire": "17",
+    "Texture": "335"
+  },
+  {
+    "Nom": "C2-2 seater",
+    "REF": "1460080",
+    "Nbr Accessoire": "17",
+    "Texture": "335"
+  },
+  {
+    "Nom": "3 seater",
+    "REF": "1460030",
+    "Nbr Accessoire": "17",
+    "Texture": "335"
+  },
+  {
+    "Nom": "Stressless® Stella Wood",
+    "REF": "1460020",
+    "Nbr Accessoire": "17",
+    "Texture": "335"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "Stella_wood",
+    "Nbr Accessoire": "17",
+    "Texture": "335"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "Ella_wood",
+    "Nbr Accessoire": "15",
+    "Texture": "345"
+  },
+  {
+    "Nom": "Stressless® Ella Wood Ottoman",
+    "REF": "1462000",
+    "Nbr Accessoire": "2",
+    "Texture": "343"
+  },
+  {
+    "Nom": "Stressless® Stella Wood Ottoman",
+    "REF": "1460000",
+    "Nbr Accessoire": "2",
+    "Texture": "333"
+  },
+  {
+    "Nom": "Stressless® Vanilla High back",
+    "REF": "",
+    "Nbr Accessoire": "13",
+    "Texture": "313"
+  },
+  {
+    "Nom": "Stressless® Vanilla Low back",
+    "REF": "",
+    "Nbr Accessoire": "13",
+    "Texture": "313"
+  },
+  {
+    "Nom": "Stressless® Vanilla Home Office Low back",
+    "REF": "",
+    "Nbr Accessoire": "5",
+    "Texture": "306"
+  },
+  {
+    "Nom": "Stressless® Vanilla Home Office High back",
+    "REF": "",
+    "Nbr Accessoire": "5",
+    "Texture": "306"
+  },
+  {
+    "Nom": "1,25 seater with side panel",
+    "REF": "1420218",
+    "Nbr Accessoire": "6",
+    "Texture": "327"
+  },
+  {
+    "Nom": "1,25 seater with side panel",
+    "REF": "1422218",
+    "Nbr Accessoire": "6",
+    "Texture": "337"
+  },
+  {
+    "Nom": "C2.5-1.25 w/LS (L) right",
+    "REF": "1422495",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "C22 w/LS (M) left",
+    "REF": "1422492",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "C21 w/LS (M) right",
+    "REF": "1422497",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "1s w/LS (M) right",
+    "REF": "1422485",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "2 seater with Long Seat (M) left",
+    "REF": "1422483",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "1.25s w/LS (L) right",
+    "REF": "1422487",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "C2.5-1.25 w/LS (L) right",
+    "REF": "1420495",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "C22 w/LS (M) left",
+    "REF": "1420492",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "C21 w/LS (M) right",
+    "REF": "1420497",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "1s w/LS (M) right",
+    "REF": "1420485",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "2 seater with Long Seat (M) left",
+    "REF": "1420483",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "1.25s w/LS (L) right",
+    "REF": "1420487",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "Stressless® Erik Home Office",
+    "REF": "Erik",
+    "Nbr Accessoire": "2",
+    "Texture": "324"
+  },
+  {
+    "Nom": "Stressless® Wing Home Office",
+    "REF": "Wing",
+    "Nbr Accessoire": "2",
+    "Texture": "194"
+  },
+  {
+    "Nom": "Stressless® Table Urban Cross",
+    "REF": "",
+    "Nbr Accessoire": "2",
+    "Texture": "4"
+  },
+  {
+    "Nom": "Stressless® Bordeaux Round Center dining table",
+    "REF": "5878013",
+    "Nbr Accessoire": "0",
+    "Texture": "7"
+  },
+  {
+    "Nom": "4 seater (with 2 Power seats)",
+    "REF": "1471868",
+    "Nbr Accessoire": "29",
+    "Texture": "335"
+  },
+  {
+    "Nom": "1 seater + Center + Corner + 2 seater (with 2 Power seats)",
+    "REF": "1471461",
+    "Nbr Accessoire": "29",
+    "Texture": "335"
+  },
+  {
+    "Nom": "2 seater + Corner + 2 seater + Long Seat (M) (with 1 Power seat)",
+    "REF": "1471464",
+    "Nbr Accessoire": "29",
+    "Texture": "335"
+  },
+  {
+    "Nom": "3 seater + Long Seat (L) (with 1 Power seat)",
+    "REF": "1471899",
+    "Nbr Accessoire": "29",
+    "Texture": "335"
+  },
+  {
+    "Nom": "3 seater + Long Seat (M) (with 1 Power seat)",
+    "REF": "1471866",
+    "Nbr Accessoire": "29",
+    "Texture": "335"
+  },
+  {
+    "Nom": "Long seat (L)",
+    "REF": "1471206",
+    "Nbr Accessoire": "29",
+    "Texture": "335"
+  },
+  {
+    "Nom": "Long seat (M)",
+    "REF": "1471200",
+    "Nbr Accessoire": "29",
+    "Texture": "335"
+  },
+  {
+    "Nom": "2 seater + Center + Long Seat (L) (with 1 Power seat)",
+    "REF": "1471479",
+    "Nbr Accessoire": "29",
+    "Texture": "335"
+  },
+  {
+    "Nom": "2 seater + Center + Long Seat (M) (with 1 Power seat)",
+    "REF": "1471478",
+    "Nbr Accessoire": "29",
+    "Texture": "335"
+  },
+  {
+    "Nom": "2 seater + Long Seat (L) (with 1 Power seat)",
+    "REF": "1471897",
+    "Nbr Accessoire": "29",
+    "Texture": "335"
+  },
+  {
+    "Nom": "2 seater + Long Seat (M) (with 1 Power seat)",
+    "REF": "1471865",
+    "Nbr Accessoire": "29",
+    "Texture": "335"
+  },
+  {
+    "Nom": "3 Seater",
+    "REF": "1471821",
+    "Nbr Accessoire": "29",
+    "Texture": "335"
+  },
+  {
+    "Nom": "Chair with Power",
+    "REF": "1471811",
+    "Nbr Accessoire": "29",
+    "Texture": "335"
+  },
+  {
+    "Nom": "Stressless® Emily Wide arm",
+    "REF": "1471030",
+    "Nbr Accessoire": "29",
+    "Texture": "335"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "Emily-wide",
+    "Nbr Accessoire": "29",
+    "Texture": "335"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "Emily-wood",
+    "Nbr Accessoire": "29",
+    "Texture": "334"
+  },
+  {
+    "Nom": "2 seater + Corner +2 seater (with 4 Power seats)",
+    "REF": "1453895",
+    "Nbr Accessoire": "12",
+    "Texture": "327"
+  },
+  {
+    "Nom": "1 seater + Corner + 2 seater (with 2 Power seats)",
+    "REF": "1453894",
+    "Nbr Accessoire": "12",
+    "Texture": "327"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "Mary-HR-wood",
+    "Nbr Accessoire": "10",
+    "Texture": "122"
+  },
+  {
+    "Nom": "Chair with Power",
+    "REF": "1453811",
+    "Nbr Accessoire": "12",
+    "Texture": "327"
+  },
+  {
+    "Nom": "3 seater",
+    "REF": "1453822",
+    "Nbr Accessoire": "12",
+    "Texture": "327"
+  },
+  {
+    "Nom": "4 seater (with 2 Power seats)",
+    "REF": "1453868",
+    "Nbr Accessoire": "12",
+    "Texture": "327"
+  },
+  {
+    "Nom": "Stressless® Mary Wood",
+    "REF": "1453030",
+    "Nbr Accessoire": "12",
+    "Texture": "327"
+  },
+  {
+    "Nom": "2 seater + Corner +2 seater (with 4 Power seats)",
+    "REF": "1455895",
+    "Nbr Accessoire": "12",
+    "Texture": "319"
+  },
+  {
+    "Nom": "1 seater + Corner + 2 seater (with 2 Power seats)",
+    "REF": "1455894",
+    "Nbr Accessoire": "12",
+    "Texture": "319"
+  },
+  {
+    "Nom": "Stressless® Mary",
+    "REF": "1455030",
+    "Nbr Accessoire": "12",
+    "Texture": "319"
+  },
+  {
+    "Nom": "4 seater (with 2 Power seats)",
+    "REF": "1455868",
+    "Nbr Accessoire": "12",
+    "Texture": "319"
+  },
+  {
+    "Nom": "3 seater",
+    "REF": "1455822",
+    "Nbr Accessoire": "12",
+    "Texture": "319"
+  },
+  {
+    "Nom": "Chair with Power",
+    "REF": "1455811",
+    "Nbr Accessoire": "12",
+    "Texture": "319"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "Mary-HR",
+    "Nbr Accessoire": "12",
+    "Texture": "319"
+  },
+  {
+    "Nom": "2 seater + Corner + 2 seater + Long Seat (M) (with 1 Power seat)",
+    "REF": "1470464",
+    "Nbr Accessoire": "29",
+    "Texture": "334"
+  },
+  {
+    "Nom": "1 seater + Center + Corner + 2 seater (with 2 Power seats)",
+    "REF": "1470461",
+    "Nbr Accessoire": "29",
+    "Texture": "334"
+  },
+  {
+    "Nom": "2 seater + Corner + 2 seater (with 2 Power seats)",
+    "REF": "1470458",
+    "Nbr Accessoire": "29",
+    "Texture": "334"
+  },
+  {
+    "Nom": "4 seater (with 2 Power seats)",
+    "REF": "1470868",
+    "Nbr Accessoire": "29",
+    "Texture": "334"
+  },
+  {
+    "Nom": "3 seater (with 2 Power seats)",
+    "REF": "1470832",
+    "Nbr Accessoire": "29",
+    "Texture": "334"
+  },
+  {
+    "Nom": "Stressless® Emily Wood",
+    "REF": "1470030",
+    "Nbr Accessoire": "29",
+    "Texture": "334"
+  },
+  {
+    "Nom": "2 seater + Long Seat (L) (with 1 Power seat)",
+    "REF": "1470897",
+    "Nbr Accessoire": "29",
+    "Texture": "334"
+  },
+  {
+    "Nom": "3 seater + Long Seat (L) (with 1 Power seat)",
+    "REF": "1470899",
+    "Nbr Accessoire": "29",
+    "Texture": "334"
+  },
+  {
+    "Nom": "Chair with Power",
+    "REF": "1470811",
+    "Nbr Accessoire": "29",
+    "Texture": "334"
+  },
+  {
+    "Nom": "3 seater",
+    "REF": "1470821",
+    "Nbr Accessoire": "29",
+    "Texture": "334"
+  },
+  {
+    "Nom": "2 seater + Corner + 2 seater + Long Seat (M) (with 1 Power seat)",
+    "REF": "1469464",
+    "Nbr Accessoire": "29",
+    "Texture": "281"
+  },
+  {
+    "Nom": "1 seater + Center + Corner + 2 seater (with 2 Power seats)",
+    "REF": "1469461",
+    "Nbr Accessoire": "29",
+    "Texture": "281"
+  },
+  {
+    "Nom": "2 seater + Corner + 2 seater (with 2 Power seats)",
+    "REF": "1469458",
+    "Nbr Accessoire": "29",
+    "Texture": "281"
+  },
+  {
+    "Nom": "4 seater (with 2 Power seats)",
+    "REF": "1469868",
+    "Nbr Accessoire": "29",
+    "Texture": "281"
+  },
+  {
+    "Nom": "3 seater (with 2 Power seats)",
+    "REF": "1469832",
+    "Nbr Accessoire": "29",
+    "Texture": "281"
+  },
+  {
+    "Nom": "Stressless® Flora Wood",
+    "REF": "1451020",
+    "Nbr Accessoire": "37",
+    "Texture": "275"
+  },
+  {
+    "Nom": "C23",
+    "REF": "1451082",
+    "Nbr Accessoire": "37",
+    "Texture": "304"
+  },
+  {
+    "Nom": "C2-2.5",
+    "REF": "1451273",
+    "Nbr Accessoire": "37",
+    "Texture": "304"
+  },
+  {
+    "Nom": "C22",
+    "REF": "1451080",
+    "Nbr Accessoire": "37",
+    "Texture": "304"
+  },
+  {
+    "Nom": "2.5 seater",
+    "REF": "1451120",
+    "Nbr Accessoire": "37",
+    "Texture": "304"
+  },
+  {
+    "Nom": "3 seater",
+    "REF": "1451030",
+    "Nbr Accessoire": "37",
+    "Texture": "335"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "Flora-wood",
+    "Nbr Accessoire": "37",
+    "Texture": "304"
+  },
+  {
+    "Nom": "Stressless® Magic Home Office",
+    "REF": "Magic",
+    "Nbr Accessoire": "2",
+    "Texture": "324"
+  },
+  {
+    "Nom": "Stressless® Mayfair Home Office",
+    "REF": "Mayfair",
+    "Nbr Accessoire": "2",
+    "Texture": "324"
+  },
+  {
+    "Nom": "Stressless® Reno Home Office",
+    "REF": "Reno",
+    "Nbr Accessoire": "2",
+    "Texture": "173"
+  },
+  {
+    "Nom": "Stressless® Consul Home Office",
+    "REF": "Consul",
+    "Nbr Accessoire": "2",
+    "Texture": "324"
+  },
+  {
+    "Nom": "Stressless® Sunrise Home Office",
+    "REF": "Sunrise",
+    "Nbr Accessoire": "2",
+    "Texture": "324"
+  },
+  {
+    "Nom": "Stressless® Ruby Home Office",
+    "REF": "Ruby",
+    "Nbr Accessoire": "2",
+    "Texture": "324"
+  },
+  {
+    "Nom": "Stressless® View Home Office",
+    "REF": "View",
+    "Nbr Accessoire": "2",
+    "Texture": "173"
+  },
+  {
+    "Nom": "Stressless® London Home Office Low back",
+    "REF": "London",
+    "Nbr Accessoire": "2",
+    "Texture": "315"
+  },
+  {
+    "Nom": "Stressless® Paris Home Office Low back",
+    "REF": "Paris",
+    "Nbr Accessoire": "2",
+    "Texture": "315"
+  },
+  {
+    "Nom": "Stressless® London Home Office High back",
+    "REF": "London",
+    "Nbr Accessoire": "2",
+    "Texture": "315"
+  },
+  {
+    "Nom": "Stressless® Paris Home Office High back",
+    "REF": "Paris",
+    "Nbr Accessoire": "2",
+    "Texture": "315"
+  },
+  {
+    "Nom": "Stressless® Tokyo Home Office Low back",
+    "REF": "Tokyo",
+    "Nbr Accessoire": "2",
+    "Texture": "314"
+  },
+  {
+    "Nom": "Stressless® Tokyo Home Office High back",
+    "REF": "Tokyo",
+    "Nbr Accessoire": "2",
+    "Texture": "314"
+  },
+  {
+    "Nom": "Stressless® Tokyo Home Office Adjustable headrest",
+    "REF": "Tokyo",
+    "Nbr Accessoire": "2",
+    "Texture": "314"
+  },
+  {
+    "Nom": "Stressless® London Home Office Adjustable headrest",
+    "REF": "London",
+    "Nbr Accessoire": "2",
+    "Texture": "315"
+  },
+  {
+    "Nom": "Stressless® Paris Home Office Adjustable headrest",
+    "REF": "Paris",
+    "Nbr Accessoire": "2",
+    "Texture": "315"
+  },
+  {
+    "Nom": "Stressless® Chilli Home Office Low back",
+    "REF": "",
+    "Nbr Accessoire": "5",
+    "Texture": "305"
+  },
+  {
+    "Nom": "Stressless® Laurel Home Office Low back",
+    "REF": "",
+    "Nbr Accessoire": "5",
+    "Texture": "305"
+  },
+  {
+    "Nom": "Stressless® Laurel Home Office High back",
+    "REF": "",
+    "Nbr Accessoire": "5",
+    "Texture": "305"
+  },
+  {
+    "Nom": "Stressless® Chilli Home Office High back",
+    "REF": "",
+    "Nbr Accessoire": "5",
+    "Texture": "305"
+  },
+  {
+    "Nom": "Stressless® Mint Home Office High back",
+    "REF": "",
+    "Nbr Accessoire": "5",
+    "Texture": "305"
+  },
+  {
+    "Nom": "Stressless® Mint Home Office Low back",
+    "REF": "",
+    "Nbr Accessoire": "5",
+    "Texture": "305"
+  },
+  {
+    "Nom": "C23",
+    "REF": "1445082",
+    "Nbr Accessoire": "37",
+    "Texture": "339"
+  },
+  {
+    "Nom": "C2-2.5",
+    "REF": "1445273",
+    "Nbr Accessoire": "37",
+    "Texture": "339"
+  },
+  {
+    "Nom": "C22",
+    "REF": "1445080",
+    "Nbr Accessoire": "37",
+    "Texture": "339"
+  },
+  {
+    "Nom": "Stressless® Fiona Steel",
+    "REF": "1445020",
+    "Nbr Accessoire": "37",
+    "Texture": "339"
+  },
+  {
+    "Nom": "2.5 seater",
+    "REF": "1445120",
+    "Nbr Accessoire": "37",
+    "Texture": "339"
+  },
+  {
+    "Nom": "3 seater",
+    "REF": "1445030",
+    "Nbr Accessoire": "37",
+    "Texture": "339"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "Fiona-steel",
+    "Nbr Accessoire": "37",
+    "Texture": "339"
+  },
+  {
+    "Nom": "C23",
+    "REF": "1441082",
+    "Nbr Accessoire": "28",
+    "Texture": "344"
+  },
+  {
+    "Nom": "C2-2.5",
+    "REF": "1441273",
+    "Nbr Accessoire": "28",
+    "Texture": "344"
+  },
+  {
+    "Nom": "C22",
+    "REF": "1441080",
+    "Nbr Accessoire": "28",
+    "Texture": "344"
+  },
+  {
+    "Nom": "Stressless® Fiona Wood",
+    "REF": "1441020",
+    "Nbr Accessoire": "28",
+    "Texture": "344"
+  },
+  {
+    "Nom": "2.5 seater",
+    "REF": "1441120",
+    "Nbr Accessoire": "28",
+    "Texture": "344"
+  },
+  {
+    "Nom": "3 seater",
+    "REF": "1441030",
+    "Nbr Accessoire": "28",
+    "Texture": "344"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "Fiona-wood",
+    "Nbr Accessoire": "28",
+    "Texture": "344"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "Flora",
+    "Nbr Accessoire": "38",
+    "Texture": "304"
+  },
+  {
+    "Nom": "3 seater",
+    "REF": "1442030",
+    "Nbr Accessoire": "38",
+    "Texture": "304"
+  },
+  {
+    "Nom": "2.5 seater",
+    "REF": "1442120",
+    "Nbr Accessoire": "38",
+    "Texture": "304"
+  },
+  {
+    "Nom": "Stressless® Flora",
+    "REF": "1442020",
+    "Nbr Accessoire": "38",
+    "Texture": "304"
+  },
+  {
+    "Nom": "C22",
+    "REF": "1442080",
+    "Nbr Accessoire": "38",
+    "Texture": "304"
+  },
+  {
+    "Nom": "C2-2.5",
+    "REF": "1442273",
+    "Nbr Accessoire": "38",
+    "Texture": "304"
+  },
+  {
+    "Nom": "C23",
+    "REF": "1442082",
+    "Nbr Accessoire": "38",
+    "Texture": "304"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "Fiona",
+    "Nbr Accessoire": "37",
+    "Texture": "345"
+  },
+  {
+    "Nom": "3 seater",
+    "REF": "1446030",
+    "Nbr Accessoire": "37",
+    "Texture": "345"
+  },
+  {
+    "Nom": "2.5 seater",
+    "REF": "1446120",
+    "Nbr Accessoire": "37",
+    "Texture": "345"
+  },
+  {
+    "Nom": "Stressless® Fiona",
+    "REF": "1446030",
+    "Nbr Accessoire": "37",
+    "Texture": "345"
+  },
+  {
+    "Nom": "C22",
+    "REF": "1446080",
+    "Nbr Accessoire": "37",
+    "Texture": "345"
+  },
+  {
+    "Nom": "C2-2.5",
+    "REF": "1446273",
+    "Nbr Accessoire": "37",
+    "Texture": "345"
+  },
+  {
+    "Nom": "C23",
+    "REF": "1446082",
+    "Nbr Accessoire": "37",
+    "Texture": "345"
+  },
+  {
+    "Nom": "C22",
+    "REF": "1420080",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "C 2.5-2.5 seater",
+    "REF": "1420088",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "C 2.5 - 3 seater",
+    "REF": "1420231",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "2.5 seater with 1 headrest",
+    "REF": "1420272",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "3 seater with 1 headrest",
+    "REF": "1420264",
+    "Nbr Accessoire": "19",
+    "Texture": "337"
+  },
+  {
+    "Nom": "C 2-3 seater",
+    "REF": "1420082",
+    "Nbr Accessoire": "19",
+    "Texture": "337"
+  },
+  {
+    "Nom": "3 seater",
+    "REF": "1420030",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "Stressless® table USB A",
+    "REF": "",
+    "Nbr Accessoire": "1",
+    "Texture": "10"
+  },
+  {
+    "Nom": "Stressless® Table Urban Star",
+    "REF": "",
+    "Nbr Accessoire": "2",
+    "Texture": "4"
+  },
+  {
+    "Nom": "Stressless® Swing table",
+    "REF": "5269013",
+    "Nbr Accessoire": "2",
+    "Texture": "10"
+  },
+  {
+    "Nom": "Table Stressless® pour pouf BalanceAdapt",
+    "REF": "5228013",
+    "Nbr Accessoire": "",
+    "Texture": ""
+  },
+  {
+    "Nom": "Stressless® Stella Ottoman",
+    "REF": "1420000",
+    "Nbr Accessoire": "2",
+    "Texture": "326"
+  },
+  {
+    "Nom": "Kit d'entretien pour le cuir Stressless® Pioneer",
+    "REF": "5958954",
+    "Nbr Accessoire": "",
+    "Texture": ""
+  },
+  {
+    "Nom": "Stressless® Modern Ottoman",
+    "REF": "5240000",
+    "Nbr Accessoire": "2",
+    "Texture": "307"
+  },
+  {
+    "Nom": "Kit d’entretien du cuir 250 ml",
+    "REF": "1997223",
+    "Nbr Accessoire": "",
+    "Texture": ""
+  },
+  {
+    "Nom": "Stressless® Protection de sol",
+    "REF": "1997210",
+    "Nbr Accessoire": "",
+    "Texture": ""
+  },
+  {
+    "Nom": "Stressless® Kit d’entretien du tissu",
+    "REF": "1997226",
+    "Nbr Accessoire": "",
+    "Texture": ""
+  },
+  {
+    "Nom": "Stressless® Table Ellipse",
+    "REF": "5253013",
+    "Nbr Accessoire": "0",
+    "Texture": "10"
+  },
+  {
+    "Nom": "Stressless® Ella Ottoman",
+    "REF": "1422000",
+    "Nbr Accessoire": "2",
+    "Texture": "336"
+  },
+  {
+    "Nom": "Stressless® Classic  Elevator Ring",
+    "REF": "1300101",
+    "Nbr Accessoire": "",
+    "Texture": ""
+  },
+  {
+    "Nom": "Stressless® Kit rehausseur pour piétement Signature",
+    "REF": "1399309",
+    "Nbr Accessoire": "",
+    "Texture": ""
+  },
+  {
+    "Nom": "Stressless® Table Double Pouf",
+    "REF": "2076050",
+    "Nbr Accessoire": "0",
+    "Texture": "315"
+  },
+  {
+    "Nom": "Stressless® Double Ottoman",
+    "REF": "2076002",
+    "Nbr Accessoire": "0",
+    "Texture": "307"
+  },
+  {
+    "Nom": "Stressless® Erik",
+    "REF": "Erik",
+    "Nbr Accessoire": "17",
+    "Texture": "325"
+  },
+  {
+    "Nom": "3 seater",
+    "REF": "1469821",
+    "Nbr Accessoire": "29",
+    "Texture": "281"
+  },
+  {
+    "Nom": "Stressless® Bordeaux Round dining table",
+    "REF": "5877013",
+    "Nbr Accessoire": "0",
+    "Texture": "5"
+  },
+  {
+    "Nom": "Stressless® Bordeaux dining table",
+    "REF": "bordeaux",
+    "Nbr Accessoire": "2",
+    "Texture": "5"
+  },
+  {
+    "Nom": "C2.5-2.5 seater",
+    "REF": "1422088",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "C2.5-3seater",
+    "REF": "1422231",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "C2-3 seater",
+    "REF": "1422082",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "C2-2.5",
+    "REF": "1422273",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "C22",
+    "REF": "1422080",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "3 seater with 1 headrest",
+    "REF": "1422264",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "3 seater",
+    "REF": "1422030",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "2.5 seater with 1 headrest",
+    "REF": "1422272",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "2.5 seater",
+    "REF": "1422120",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "2 seater with 1 headrest",
+    "REF": "1422271",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "Stressless® Ella",
+    "REF": "1422020",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "1 seater with sidepanels",
+    "REF": "1422214",
+    "Nbr Accessoire": "6",
+    "Texture": "337"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "Ella",
+    "Nbr Accessoire": "22",
+    "Texture": "337"
+  },
+  {
+    "Nom": "Stressless® Mike",
+    "REF": "Mike",
+    "Nbr Accessoire": "12",
+    "Texture": "56"
+  },
+  {
+    "Nom": "Stressless® Max",
+    "REF": "Max",
+    "Nbr Accessoire": "12",
+    "Texture": "61"
+  },
+  {
+    "Nom": "Stressless® Mint",
+    "REF": "",
+    "Nbr Accessoire": "13",
+    "Texture": "312"
+  },
+  {
+    "Nom": "Stressless® Mint High Back",
+    "REF": "",
+    "Nbr Accessoire": "13",
+    "Texture": "312"
+  },
+  {
+    "Nom": "Stressless® Admiral",
+    "REF": "Admiral",
+    "Nbr Accessoire": "9",
+    "Texture": "119"
+  },
+  {
+    "Nom": "Stressless® Sam Wood",
+    "REF": "Sam_Wood",
+    "Nbr Accessoire": "6",
+    "Texture": "174"
+  },
+  {
+    "Nom": "2 seater with 1 headrest",
+    "REF": "1420271",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "Emily",
+    "Nbr Accessoire": "29",
+    "Texture": "281"
+  },
+  {
+    "Nom": "Chair with Power",
+    "REF": "1469811",
+    "Nbr Accessoire": "29",
+    "Texture": "281"
+  },
+  {
+    "Nom": "3 seater + Long Seat (M) (with 1 Power seat)",
+    "REF": "1469866",
+    "Nbr Accessoire": "29",
+    "Texture": "281"
+  },
+  {
+    "Nom": "2 seater + Long Seat (M) (with 1 Power seat)",
+    "REF": "1469865",
+    "Nbr Accessoire": "29",
+    "Texture": "281"
+  },
+  {
+    "Nom": "Stressless® Emily Steel",
+    "REF": "1469030",
+    "Nbr Accessoire": "29",
+    "Texture": "281"
+  },
+  {
+    "Nom": "Stressless® Emily",
+    "REF": "emily_nomod",
+    "Nbr Accessoire": "24",
+    "Texture": "327"
+  },
+  {
+    "Nom": "3 seater Low back",
+    "REF": "1267030",
+    "Nbr Accessoire": "11",
+    "Texture": "326"
+  },
+  {
+    "Nom": "Stressless® Sapphire",
+    "REF": "1266030",
+    "Nbr Accessoire": "11",
+    "Texture": "326"
+  },
+  {
+    "Nom": "2 seater Low back",
+    "REF": "1267020",
+    "Nbr Accessoire": "11",
+    "Texture": "326"
+  },
+  {
+    "Nom": "3 seater High back",
+    "REF": "1266020",
+    "Nbr Accessoire": "11",
+    "Texture": "326"
+  },
+  {
+    "Nom": "50m² - 5x10",
+    "REF": "",
+    "Nbr Accessoire": "0",
+    "Texture": "0"
+  },
+  {
+    "Nom": "200m² - 20 x10",
+    "REF": "",
+    "Nbr Accessoire": "0",
+    "Texture": "8"
+  },
+  {
+    "Nom": "150m² - 15x10",
+    "REF": "",
+    "Nbr Accessoire": "0",
+    "Texture": "8"
+  },
+  {
+    "Nom": "100m² - 10x10",
+    "REF": "",
+    "Nbr Accessoire": "0",
+    "Texture": "8"
+  },
+  {
+    "Nom": "72m² - 9x8",
+    "REF": "",
+    "Nbr Accessoire": "0",
+    "Texture": "8"
+  },
+  {
+    "Nom": "36m² - 6x6",
+    "REF": "",
+    "Nbr Accessoire": "0",
+    "Texture": "8"
+  },
+  {
+    "Nom": "C2-2.5 seater",
+    "REF": "1420273",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "Stressless® Stella",
+    "REF": "1420020",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "1 seater with sidepanels",
+    "REF": "1420214",
+    "Nbr Accessoire": "6",
+    "Texture": "327"
+  },
+  {
+    "Nom": "2.5 seater",
+    "REF": "1420120",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "Medium Corner 23 High back/Low back",
+    "REF": "1125422",
+    "Nbr Accessoire": "19",
+    "Texture": "335"
+  },
+  {
+    "Nom": "Stressless® Wave",
+    "REF": "1125030",
+    "Nbr Accessoire": "19",
+    "Texture": "335"
+  },
+  {
+    "Nom": "3 seater Low back",
+    "REF": "1184030",
+    "Nbr Accessoire": "19",
+    "Texture": "335"
+  },
+  {
+    "Nom": "3 seater High back",
+    "REF": "1125020",
+    "Nbr Accessoire": "19",
+    "Texture": "335"
+  },
+  {
+    "Nom": "2 seater Low back",
+    "REF": "1184020",
+    "Nbr Accessoire": "19",
+    "Texture": "335"
+  },
+  {
+    "Nom": "Chair High back",
+    "REF": "1125010",
+    "Nbr Accessoire": "19",
+    "Texture": "335"
+  },
+  {
+    "Nom": "Chair Low back",
+    "REF": "1184010",
+    "Nbr Accessoire": "19",
+    "Texture": "335"
+  },
+  {
+    "Nom": "3 seater High back",
+    "REF": "1444020",
+    "Nbr Accessoire": "12",
+    "Texture": "206"
+  },
+  {
+    "Nom": "Stressless® Arion 19 A20",
+    "REF": "1424030",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "3 seater High back",
+    "REF": "1424020",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "Chair High back",
+    "REF": "1424010",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "Stressless® Arion 19 A10",
+    "REF": "1406030",
+    "Nbr Accessoire": "20",
+    "Texture": "327"
+  },
+  {
+    "Nom": "3 seater High back",
+    "REF": "1406020",
+    "Nbr Accessoire": "20",
+    "Texture": "327"
+  },
+  {
+    "Nom": "Chair High back",
+    "REF": "1406010",
+    "Nbr Accessoire": "20",
+    "Texture": "327"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "Aurora",
+    "Nbr Accessoire": "2",
+    "Texture": "206"
+  },
+  {
+    "Nom": "Stressless® Paris Adjustable headrest",
+    "REF": "Paris",
+    "Nbr Accessoire": "3",
+    "Texture": "316"
+  },
+  {
+    "Nom": "Stressless® London Adjustable headrest",
+    "REF": "London",
+    "Nbr Accessoire": "3",
+    "Texture": "316"
+  },
+  {
+    "Nom": "Stressless® Tokyo Adjustable headrest",
+    "REF": "Tokyo",
+    "Nbr Accessoire": "3",
+    "Texture": "315"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "Sapphire",
+    "Nbr Accessoire": "11",
+    "Texture": "326"
+  },
+  {
+    "Nom": "Stressless® Oslo",
+    "REF": "",
+    "Nbr Accessoire": "3",
+    "Texture": "171"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "Stella",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "Arion19 A20",
+    "Nbr Accessoire": "19",
+    "Texture": "327"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "Arion19 A10",
+    "Nbr Accessoire": "20",
+    "Texture": "327"
+  },
+  {
+    "Nom": "Stressless® Chilli High",
+    "REF": "",
+    "Nbr Accessoire": "19",
+    "Texture": "312"
+  },
+  {
+    "Nom": "Stressless® Laurel High",
+    "REF": "",
+    "Nbr Accessoire": "20",
+    "Texture": "312"
+  },
+  {
+    "Nom": "Stressless® Tokyo High back",
+    "REF": "Tokyo",
+    "Nbr Accessoire": "3",
+    "Texture": "315"
+  },
+  {
+    "Nom": "Stressless® Laurel Low",
+    "REF": "",
+    "Nbr Accessoire": "20",
+    "Texture": "312"
+  },
+  {
+    "Nom": "Stressless® Tokyo Low back",
+    "REF": "Tokyo",
+    "Nbr Accessoire": "3",
+    "Texture": "315"
+  },
+  {
+    "Nom": "Stressless® Chilli Low",
+    "REF": "",
+    "Nbr Accessoire": "13",
+    "Texture": "311"
+  },
+  {
+    "Nom": "Stressless® Saga avec bois dossier haut",
+    "REF": "",
+    "Nbr Accessoire": "2",
+    "Texture": "331"
+  },
+  {
+    "Nom": "Stressless® Saga Corner",
+    "REF": "",
+    "Nbr Accessoire": "2",
+    "Texture": "324"
+  },
+  {
+    "Nom": "Stressless® Windsor",
+    "REF": "",
+    "Nbr Accessoire": "3",
+    "Texture": "335"
+  },
+  {
+    "Nom": "Stressless® Buckingham",
+    "REF": "Buckingham",
+    "Nbr Accessoire": "6",
+    "Texture": "325"
+  },
+  {
+    "Nom": "Build your own",
+    "REF": "Wave",
+    "Nbr Accessoire": "19",
+    "Texture": "335"
+  },
+  {
+    "Nom": "Stressless® Paris High back",
+    "REF": "Paris",
+    "Nbr Accessoire": "3",
+    "Texture": "316"
+  },
+  {
+    "Nom": "Stressless® London High back",
+    "REF": "London",
+    "Nbr Accessoire": "3",
+    "Texture": "316"
+  },
+  {
+    "Nom": "Stressless® Paris Low back",
+    "REF": "Paris",
+    "Nbr Accessoire": "3",
+    "Texture": "316"
+  },
+  {
+    "Nom": "Stressless® London Low back",
+    "REF": "London",
+    "Nbr Accessoire": "3",
+    "Texture": "316"
+  },
+  {
+    "Nom": "Stressless® Wing",
+    "REF": "Wing",
+    "Nbr Accessoire": "19",
+    "Texture": "325"
+  },
+  {
+    "Nom": "Stressless® View",
+    "REF": "View",
+    "Nbr Accessoire": "19",
+    "Texture": "174"
+  },
+  {
+    "Nom": "Stressless® Ruby",
+    "REF": "Ruby",
+    "Nbr Accessoire": "19",
+    "Texture": "325"
+  },
+  {
+    "Nom": "Stressless® Sunrise",
+    "REF": "Sunrise",
+    "Nbr Accessoire": "19",
+    "Texture": "325"
+  },
+  {
+    "Nom": "Stressless® Consul",
+    "REF": "Consul",
+    "Nbr Accessoire": "19",
+    "Texture": "325"
+  },
+  {
+    "Nom": "Stressless® Reno",
+    "REF": "Reno",
+    "Nbr Accessoire": "21",
+    "Texture": "199"
+  },
+  {
+    "Nom": "Stressless® Mayfair",
+    "REF": "Mayfair",
+    "Nbr Accessoire": "19",
+    "Texture": "325"
+  },
+  {
+    "Nom": "Stressless® Magic",
+    "REF": "Magic",
+    "Nbr Accessoire": "19",
+    "Texture": "325"
+  }
+]
