@@ -16,6 +16,49 @@ API_URL_TEMPLATE = (
 )
 
 
+def build_result_payload(args: argparse.Namespace, total: int, rows: List[Dict[str, Any]]) -> Dict[str, Any]:
+    return {
+        "generated_at": datetime.now(timezone.utc).isoformat(),
+        "source_ids_json": args.ids_json,
+        "total_ids": total,
+        "total_ok": sum(1 for r in rows if r["status"] == "ok"),
+        "total_error": sum(1 for r in rows if r["status"] != "ok"),
+        "sum_accessories_ok": sum(
+            int(r["total_accessories"]) for r in rows if r["status"] == "ok"
+        ),
+        "sum_shades_ok": sum(
+            int(r["total_shades"]) for r in rows if r["status"] == "ok"
+        ),
+        "items": rows,
+    }
+
+
+def export_json(path: str, payload: Dict[str, Any], pretty: bool) -> None:
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2 if pretty else None)
+        if pretty:
+            f.write("\n")
+
+
+def load_existing_rows(path: str, source_ids_json: str) -> List[Dict[str, Any]]:
+    if not os.path.exists(path):
+        return []
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception:
+        return []
+
+    if not isinstance(data, dict):
+        return []
+    if data.get("source_ids_json") != source_ids_json:
+        return []
+    items = data.get("items")
+    if not isinstance(items, list):
+        return []
+    return [item for item in items if isinstance(item, dict)]
+
+
 def load_ids_from_json(path: str) -> List[int]:
     with open(path, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -231,10 +274,36 @@ def main() -> int:
         print(f"Erreur lecture ids: {e}", file=sys.stderr)
         return 1
 
-    rows: List[Dict[str, Any]] = []
     total = len(furniture_ids)
+    json_output_path = args.json_out or f"{os.path.splitext(args.xls_out)[0]}.json"
+
+    existing_rows = load_existing_rows(json_output_path, args.ids_json)
+    rows_by_id: Dict[int, Dict[str, Any]] = {}
+    for row in existing_rows:
+        try:
+            fid = int(row.get("furniture_id"))
+        except Exception:
+            continue
+        if fid in furniture_ids:
+            rows_by_id[fid] = row
+
+    rows: List[Dict[str, Any]] = [rows_by_id[fid] for fid in furniture_ids if fid in rows_by_id]
+    processed_ids = {int(r["furniture_id"]) for r in rows if "furniture_id" in r}
+    if processed_ids:
+        print(
+            f"Reprise: {len(processed_ids)} furniture_ids déjà traités.",
+            file=sys.stderr,
+        )
+
+    interruption_message: str | None = None
 
     for idx, furniture_id in enumerate(furniture_ids, start=1):
+        if furniture_id in processed_ids:
+            print(
+                f"[{idx}/{total}] furniture_id={furniture_id} déjà traité - reprise",
+                file=sys.stderr,
+            )
+            continue
         print(f"[{idx}/{total}] furniture_id={furniture_id}", file=sys.stderr)
         row: Dict[str, Any] = {
             "furniture_id": furniture_id,
@@ -257,37 +326,32 @@ def main() -> int:
             row["total_accessories"] = count_accessories(payload)
             row["total_shades"] = count_shades(payload)
         except HTTPError as e:
-            row["status"] = "error"
-            row["error"] = f"HTTP {e.code}: {e.reason}"
+            interruption_message = f"HTTP {e.code}: {e.reason}"
+            if e.code not in (401, 403):
+                row["status"] = "error"
+                row["error"] = interruption_message
+                rows.append(row)
+            break
         except URLError as e:
-            row["status"] = "error"
-            row["error"] = f"Network: {e.reason}"
+            interruption_message = f"Network: {e.reason}"
+            break
+        except TimeoutError as e:
+            interruption_message = f"Timeout: {e}"
+            break
         except Exception as e:
             row["status"] = "error"
             row["error"] = str(e)
         rows.append(row)
+        processed_ids.add(furniture_id)
+
+        export_xls(args.xls_out, rows)
+        result_payload = build_result_payload(args, total, rows)
+        export_json(json_output_path, result_payload, args.pretty)
 
     export_xls(args.xls_out, rows)
 
-    if args.json_out:
-        result = {
-            "generated_at": datetime.now(timezone.utc).isoformat(),
-            "source_ids_json": args.ids_json,
-            "total_ids": total,
-            "total_ok": sum(1 for r in rows if r["status"] == "ok"),
-            "total_error": sum(1 for r in rows if r["status"] != "ok"),
-            "sum_accessories_ok": sum(
-                int(r["total_accessories"]) for r in rows if r["status"] == "ok"
-            ),
-            "sum_shades_ok": sum(
-                int(r["total_shades"]) for r in rows if r["status"] == "ok"
-            ),
-            "items": rows,
-        }
-        with open(args.json_out, "w", encoding="utf-8") as f:
-            json.dump(result, f, ensure_ascii=False, indent=2 if args.pretty else None)
-            if args.pretty:
-                f.write("\n")
+    result_payload = build_result_payload(args, total, rows)
+    export_json(json_output_path, result_payload, args.pretty)
 
     total_ok = sum(1 for r in rows if r["status"] == "ok")
     total_error = len(rows) - total_ok
@@ -298,8 +362,14 @@ def main() -> int:
     )
 
     print(f"OK -> {args.xls_out}", file=sys.stderr)
-    if args.json_out:
-        print(f"OK -> {args.json_out}", file=sys.stderr)
+    print(f"OK -> {json_output_path}", file=sys.stderr)
+    if interruption_message:
+        print(
+            "Interruption détectée: "
+            f"{interruption_message}. Reprends avec la même commande pour continuer.",
+            file=sys.stderr,
+        )
+        return 2
     if total_ok == 0 and total_error > 0 and total_401 == total_error:
         print(
             "AUTH ERROR: toutes les requêtes API sont en 401. "

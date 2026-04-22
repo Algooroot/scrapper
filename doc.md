@@ -11,8 +11,7 @@ Pour récupérer le token d'authentification, ouvrez la liste d'un catalogue dan
 
 Ensuite :
 
-1. Filtrez la liste sur le STATUS `Prêt`.
-1. Filtrez la liste sur le PUBLIÉ `Oui`.
+1. Filtrez la liste sur le STATUS `Published`.
 2. Faites un clic droit, puis choisissez `Inspecter`.
 3. Ouvrez l'onglet `Network`.
 4. Dans la recherche du panneau `Network`, tapez `with`.
@@ -36,7 +35,7 @@ Lancez ensuite la commande suivante :
 
 
 
-INNERSENSE_TOKEN='304a76690ec1325b99bb7df1031ce1e47031ab220419c93176f09eb95592c6f0' \
+INNERSENSE_TOKEN='b50fc5d5ee14431d0181fa26804d014e1270cead3b4821b8ec1ba109afe455bf' \
 python3 fetch_published_furniture_ids.py \
   --catalog-id 111 \
   --page-start 1 \
@@ -69,7 +68,7 @@ Une fois le fichier JSON des IDs récupéré, lancez la commande suivante :
 
 python3 fetch_furnitures_counts_batch.py \
   --ids-json furniture_ids_catalog_111.json \
-  --token "304a76690ec1325b99bb7df1031ce1e47031ab220419c93176f09eb95592c6f0" \
+  --token "b50fc5d5ee14431d0181fa26804d014e1270cead3b4821b8ec1ba109afe455bf" \
   --xls-out furnitures_accessories_shades_counts_11_1.xls \
   --pretty
 

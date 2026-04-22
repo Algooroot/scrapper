@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Furniture Batch Export</title>
+</head>
+<body>
+<table border="1">
+  <tr>
+    <th>furniture_id</th>
+    <th>name</th>
+    <th>nbr Accessoir</th>
+    <th>nbr shade</th>
+    <th>status</th>
+    <th>error</th>
+  </tr>
+  <tr><td>8762</td><td>Stressless® Magic</td><td>19</td><td>325</td><td>ok</td><td></td></tr><tr><td>8763</td><td>Stressless® Mayfair</td><td>19</td><td>325</td><td>ok</td><td></td></tr><tr><td>8765</td><td>Stressless® Reno</td><td>21</td><td>194</td><td>ok</td><td></td></tr><tr><td>11081</td><td>Stressless® Consul</td><td>19</td><td>325</td><td>ok</td><td></td></tr><tr><td>11228</td><td>Stressless® Sunrise</td><td>19</td><td>325</td><td>ok</td><td></td></tr><tr><td>11264</td><td>Stressless® Ruby</td><td>19</td><td>325</td><td>ok</td><td></td></tr><tr><td>11271</td><td>Stressless® View</td><td>19</td><td>157</td><td>ok</td><td></td></tr><tr><td>11274</td><td>Stressless® Wing</td><td>19</td><td>325</td><td>ok</td><td></td></tr><tr><td>11282</td><td>Stressless® London Low back</td><td>3</td><td>316</td><td>ok</td><td></td></tr><tr><td>11283</td><td>Stressless® Paris Low back</td><td>3</td><td>316</td><td>ok</td><td></td></tr><tr><td>14510</td><td>Stressless® London High back</td><td>3</td><td>316</td><td>ok</td><td></td></tr><tr><td>14511</td><td>Stressless® Paris High back</td><td>3</td><td>316</td><td>ok</td><td></td></tr><tr><td>15924</td><td>Build your own</td><td>17</td><td>335</td><td>ok</td><td></td></tr><tr><td>18869</td><td>Stressless® Buckingham</td><td>6</td><td>325</td><td>ok</td><td></td></tr><tr><td>19809</td><td>Stressless® Windsor</td><td>3</td><td>335</td><td>ok</td><td></td></tr><tr><td>20814</td><td>Stressless® Saga Corner</td><td>2</td><td>324</td><td>ok</td><td></td></tr>
+  <tr>
+    <td colspan="2"><b>TOTAL (status=ok)</b></td>
+    <td><b>194</b></td>
+    <td><b>4884</b></td>
+    <td><b>ok=16</b></td>
+    <td><b>error=0</b></td>
+  </tr>
+</table>
+</body>
+</html>

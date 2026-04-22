@@ -19,6 +19,85 @@ API_CANDIDATE_URLS = [
 ]
 
 
+def export_results(
+    out_json_path: str,
+    out_csv_path: str,
+    catalog_id: int,
+    page_start: int,
+    page_end: int,
+    order: str,
+    by_page: Dict[int, List[int]],
+    id_to_pages: Dict[int, List[int]],
+) -> None:
+    unique_ids = sorted({fid for ids in by_page.values() for fid in ids})
+    result = {
+        "catalog_id": catalog_id,
+        "scope": "published",
+        "page_start": page_start,
+        "page_end": page_end,
+        "order": order,
+        "total_unique_furniture_ids": len(unique_ids),
+        "total_rows_across_pages": sum(len(v) for v in by_page.values()),
+        "furniture_ids": unique_ids,
+        "ids_by_page": by_page,
+    }
+
+    with open(out_json_path, "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=2)
+        f.write("\n")
+
+    with open(out_csv_path, "w", encoding="utf-8", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(["furniture_id", "pages"])
+        for fid in unique_ids:
+            pages = ",".join(str(p) for p in sorted(set(id_to_pages[fid])))
+            writer.writerow([fid, pages])
+
+
+def load_existing_progress(
+    path: str,
+    catalog_id: int,
+    page_start: int,
+    page_end: int,
+    order: str,
+) -> Dict[int, List[int]]:
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception:
+        return {}
+
+    if not isinstance(data, dict):
+        return {}
+    if data.get("catalog_id") != catalog_id:
+        return {}
+    if data.get("page_start") != page_start or data.get("page_end") != page_end:
+        return {}
+    if data.get("order") != order:
+        return {}
+
+    raw_ids_by_page = data.get("ids_by_page")
+    if not isinstance(raw_ids_by_page, dict):
+        return {}
+
+    restored: Dict[int, List[int]] = {}
+    for page in range(page_start, page_end + 1):
+        page_key = str(page)
+        values = raw_ids_by_page.get(page_key)
+        if not isinstance(values, list):
+            continue
+        cleaned: List[int] = []
+        for value in values:
+            if isinstance(value, int):
+                cleaned.append(value)
+            elif isinstance(value, str) and value.isdigit():
+                cleaned.append(int(value))
+        restored[page] = sorted(set(cleaned))
+    return restored
+
+
 def fetch_page_html(
     catalog_id: int,
     page: int,
@@ -206,12 +285,27 @@ def main() -> int:
         )
         return 1
 
-    by_page: Dict[int, List[int]] = {}
-    all_ids: Set[int] = set()
+    by_page: Dict[int, List[int]] = load_existing_progress(
+        path=args.out,
+        catalog_id=args.catalog_id,
+        page_start=args.page_start,
+        page_end=args.page_end,
+        order=args.order,
+    )
     id_to_pages: Dict[int, List[int]] = defaultdict(list)
+    for page, ids in by_page.items():
+        for fid in ids:
+            id_to_pages[fid].append(page)
 
-    try:
-        for page in range(args.page_start, args.page_end + 1):
+    interruption_message: str | None = None
+    for page in range(args.page_start, args.page_end + 1):
+        if page in by_page:
+            print(
+                f"page {page}: déjà traitée ({len(by_page[page])} ids) - reprise",
+                file=sys.stderr,
+            )
+            continue
+        try:
             ids: List[int] = []
             status_suffix = ""
 
@@ -232,6 +326,16 @@ def main() -> int:
                     status_suffix = f" (API: {api_status})"
                     if args.mode == "api":
                         by_page[page] = ids
+                        export_results(
+                            out_json_path=args.out,
+                            out_csv_path=args.csv_out,
+                            catalog_id=args.catalog_id,
+                            page_start=args.page_start,
+                            page_end=args.page_end,
+                            order=args.order,
+                            by_page=by_page,
+                            id_to_pages=id_to_pages,
+                        )
                         print(f"page {page}: 0 ids{status_suffix}", file=sys.stderr)
                         continue
 
@@ -252,47 +356,52 @@ def main() -> int:
 
             by_page[page] = ids
             for fid in ids:
-                all_ids.add(fid)
                 id_to_pages[fid].append(page)
             print(status_msg, file=sys.stderr)
-    except HTTPError as e:
-        print(f"HTTP error {e.code}: {e.reason}", file=sys.stderr)
-        return 1
-    except URLError as e:
-        print(f"Network error: {e.reason}", file=sys.stderr)
-        return 1
-    except Exception as e:
-        print(f"Erreur: {e}", file=sys.stderr)
-        return 1
+            export_results(
+                out_json_path=args.out,
+                out_csv_path=args.csv_out,
+                catalog_id=args.catalog_id,
+                page_start=args.page_start,
+                page_end=args.page_end,
+                order=args.order,
+                by_page=by_page,
+                id_to_pages=id_to_pages,
+            )
+        except HTTPError as e:
+            interruption_message = f"HTTP error {e.code}: {e.reason}"
+            break
+        except URLError as e:
+            interruption_message = f"Network error: {e.reason}"
+            break
+        except Exception as e:
+            interruption_message = f"Erreur: {e}"
+            break
 
-    unique_ids = sorted(all_ids)
-    result = {
-        "catalog_id": args.catalog_id,
-        "scope": "published",
-        "page_start": args.page_start,
-        "page_end": args.page_end,
-        "order": args.order,
-        "total_unique_furniture_ids": len(unique_ids),
-        "total_rows_across_pages": sum(len(v) for v in by_page.values()),
-        "furniture_ids": unique_ids,
-        "ids_by_page": by_page,
-    }
+    export_results(
+        out_json_path=args.out,
+        out_csv_path=args.csv_out,
+        catalog_id=args.catalog_id,
+        page_start=args.page_start,
+        page_end=args.page_end,
+        order=args.order,
+        by_page=by_page,
+        id_to_pages=id_to_pages,
+    )
 
-    with open(args.out, "w", encoding="utf-8") as f:
-        json.dump(result, f, ensure_ascii=False, indent=2)
-        f.write("\n")
-
-    with open(args.csv_out, "w", encoding="utf-8", newline="") as f:
-        writer = csv.writer(f)
-        writer.writerow(["furniture_id", "pages"])
-        for fid in unique_ids:
-            pages = ",".join(str(p) for p in sorted(set(id_to_pages[fid])))
-            writer.writerow([fid, pages])
+    unique_ids = sorted({fid for ids in by_page.values() for fid in ids})
 
     print(
         f"Export terminé (scope=published): {len(unique_ids)} ids uniques "
         f"-> {args.out}, {args.csv_out}"
     )
+    if interruption_message:
+        print(
+            "Interruption détectée: "
+            f"{interruption_message}. Reprends avec la même commande pour continuer.",
+            file=sys.stderr,
+        )
+        return 2
     return 0
 
 
