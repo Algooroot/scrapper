@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Furniture Batch Export</title>
+</head>
+<body>
+<table border="1">
+  <tr>
+    <th>furniture_id</th>
+    <th>name</th>
+    <th>nbr Accessoir</th>
+    <th>nbr shade</th>
+    <th>status</th>
+    <th>error</th>
+  </tr>
+  <tr><td>34597</td><td>LAGO</td><td>8</td><td>33</td><td>ok</td><td></td></tr><tr><td>41137</td><td>Canapé Andy</td><td>19</td><td>32</td><td>ok</td><td></td></tr><tr><td>41139</td><td>QUARTZ</td><td>63</td><td>51</td><td>ok</td><td></td></tr><tr><td>41372</td><td>JUNE</td><td>14</td><td>46</td><td>ok</td><td></td></tr><tr><td>41373</td><td>CASABLANCA</td><td>5</td><td>43</td><td>ok</td><td></td></tr><tr><td>43517</td><td>OCEAN</td><td>50</td><td>28</td><td>ok</td><td></td></tr><tr><td>45760</td><td>JUNE_Cabriolet</td><td>0</td><td>0</td><td>ok</td><td></td></tr><tr><td>47584</td><td>Validation Coloris</td><td>8</td><td>18</td><td>ok</td><td></td></tr><tr><td>48928</td><td>OLD_QUARTZ</td><td>54</td><td>39</td><td>ok</td><td></td></tr><tr><td>52723</td><td>ANDY</td><td>57</td><td>32</td><td>ok</td><td></td></tr><tr><td>53116</td><td>NICARAGUA</td><td>84</td><td>57</td><td>ok</td><td></td></tr><tr><td>54477</td><td>EXTENSO</td><td>159</td><td>13</td><td>ok</td><td></td></tr><tr><td>64150</td><td>Matelas Montmartre</td><td>67</td><td>24</td><td>ok</td><td></td></tr><tr><td>71306</td><td>Matelas Concorde</td><td>87</td><td>24</td><td>ok</td><td></td></tr><tr><td>71307</td><td>Matelas Voges</td><td>84</td><td>25</td><td>ok</td><td></td></tr><tr><td>73836</td><td>BZ pilote Préprod</td><td>40</td><td>26</td><td>ok</td><td></td></tr><tr><td>73837</td><td>Clic-clac pilote Préprod</td><td>51</td><td>27</td><td>ok</td><td></td></tr><tr><td>76639</td><td>Canapé Clic Clac PROD</td><td>51</td><td>27</td><td>ok</td><td></td></tr><tr><td>76719</td><td>Canapé BZ PROD</td><td>40</td><td>26</td><td>ok</td><td></td></tr><tr><td>93594</td><td>MAJA Modulaire</td><td>14</td><td>26</td><td>ok</td><td></td></tr><tr><td>93647</td><td>GIOVANNI</td><td>8</td><td>53</td><td>ok</td><td></td></tr><tr><td>93673</td><td>EMMA</td><td>6</td><td>14</td><td>ok</td><td></td></tr><tr><td>93675</td><td>UNIVERS Modulaire</td><td>31</td><td>34</td><td>ok</td><td></td></tr>
+  <tr>
+    <td colspan="2"><b>TOTAL (status=ok)</b></td>
+    <td><b>1000</b></td>
+    <td><b>698</b></td>
+    <td><b>ok=23</b></td>
+    <td><b>error=0</b></td>
+  </tr>
+</table>
+</body>
+</html>
