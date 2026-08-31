@@ -1,0 +1,659 @@
+{
+  "generated_at": "2026-05-27T17:07:22.700395+00:00",
+  "source_ids_json": "furniture_ids_catalog_627.json",
+  "total_ids": 81,
+  "total_ok": 81,
+  "total_error": 0,
+  "sum_accessories_ok": 2267,
+  "sum_shades_ok": 42194,
+  "items": [
+    {
+      "furniture_id": 69279,
+      "name": "HOP",
+      "total_accessories": 14,
+      "total_shades": 330,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 69280,
+      "name": "YORK-V",
+      "total_accessories": 62,
+      "total_shades": 327,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 69281,
+      "name": "BOOM",
+      "total_accessories": 75,
+      "total_shades": 382,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 69282,
+      "name": "JAZZ",
+      "total_accessories": 66,
+      "total_shades": 384,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 69283,
+      "name": "ALTEA",
+      "total_accessories": 48,
+      "total_shades": 442,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 69284,
+      "name": "ULISSE (AT025)",
+      "total_accessories": 0,
+      "total_shades": 4,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 69285,
+      "name": "ROOM-C",
+      "total_accessories": 8,
+      "total_shades": 504,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 69286,
+      "name": "SANDY",
+      "total_accessories": 58,
+      "total_shades": 504,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 69287,
+      "name": "ZEUS",
+      "total_accessories": 12,
+      "total_shades": 504,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 69288,
+      "name": "SUPREMO",
+      "total_accessories": 6,
+      "total_shades": 596,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 69292,
+      "name": "GENIUS",
+      "total_accessories": 23,
+      "total_shades": 180,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 69293,
+      "name": "LOUVRE",
+      "total_accessories": 2,
+      "total_shades": 180,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 69294,
+      "name": "OPERA",
+      "total_accessories": 25,
+      "total_shades": 181,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 69295,
+      "name": "TITANIC",
+      "total_accessories": 7,
+      "total_shades": 180,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 69296,
+      "name": "ORENSE",
+      "total_accessories": 3,
+      "total_shades": 3,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 69297,
+      "name": "PANAMA",
+      "total_accessories": 3,
+      "total_shades": 4,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70482,
+      "name": "FAN",
+      "total_accessories": 68,
+      "total_shades": 346,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70483,
+      "name": "MOON",
+      "total_accessories": 10,
+      "total_shades": 401,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70484,
+      "name": "SONIA",
+      "total_accessories": 0,
+      "total_shades": 400,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70485,
+      "name": "LODY",
+      "total_accessories": 0,
+      "total_shades": 849,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70486,
+      "name": "NEWMAN",
+      "total_accessories": 42,
+      "total_shades": 459,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70487,
+      "name": "DYLAN",
+      "total_accessories": 54,
+      "total_shades": 523,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70488,
+      "name": "PAU-F",
+      "total_accessories": 0,
+      "total_shades": 612,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70490,
+      "name": "AJAX",
+      "total_accessories": 59,
+      "total_shades": 341,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70491,
+      "name": "PREDATOR",
+      "total_accessories": 23,
+      "total_shades": 198,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70492,
+      "name": "BILBAO",
+      "total_accessories": 2,
+      "total_shades": 24,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70493,
+      "name": "DAKOTA",
+      "total_accessories": 2,
+      "total_shades": 21,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70494,
+      "name": "FARO",
+      "total_accessories": 3,
+      "total_shades": 23,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70495,
+      "name": "MILAN-C",
+      "total_accessories": 3,
+      "total_shades": 26,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70496,
+      "name": "RONDA",
+      "total_accessories": 0,
+      "total_shades": 23,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70497,
+      "name": "ADRIANA-R",
+      "total_accessories": 113,
+      "total_shades": 356,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70498,
+      "name": "DIOR-R",
+      "total_accessories": 95,
+      "total_shades": 355,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70677,
+      "name": "VERA",
+      "total_accessories": 0,
+      "total_shades": 672,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70678,
+      "name": "HOLA",
+      "total_accessories": 11,
+      "total_shades": 347,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70679,
+      "name": "WILL",
+      "total_accessories": 35,
+      "total_shades": 346,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70680,
+      "name": "ZEN",
+      "total_accessories": 11,
+      "total_shades": 401,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70682,
+      "name": "CLASS",
+      "total_accessories": 87,
+      "total_shades": 460,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70683,
+      "name": "EURO",
+      "total_accessories": 9,
+      "total_shades": 460,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70684,
+      "name": "BED",
+      "total_accessories": 23,
+      "total_shades": 524,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70685,
+      "name": "CAIMAN",
+      "total_accessories": 47,
+      "total_shades": 524,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70686,
+      "name": "CHOCOLATE",
+      "total_accessories": 38,
+      "total_shades": 523,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70687,
+      "name": "CLARIN",
+      "total_accessories": 8,
+      "total_shades": 194,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70688,
+      "name": "MAR",
+      "total_accessories": 0,
+      "total_shades": 194,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70690,
+      "name": "DESEO",
+      "total_accessories": 15,
+      "total_shades": 341,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70691,
+      "name": "URANIO",
+      "total_accessories": 13,
+      "total_shades": 199,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70693,
+      "name": "NEBRASKA",
+      "total_accessories": 3,
+      "total_shades": 24,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70694,
+      "name": "OPORTO-CH",
+      "total_accessories": 3,
+      "total_shades": 22,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70695,
+      "name": "VERSALLES",
+      "total_accessories": 3,
+      "total_shades": 25,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70696,
+      "name": "ZARAUTZ",
+      "total_accessories": 90,
+      "total_shades": 355,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 70697,
+      "name": "AUSTRIA",
+      "total_accessories": 68,
+      "total_shades": 472,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 77115,
+      "name": "MIRANDA",
+      "total_accessories": 69,
+      "total_shades": 356,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 77272,
+      "name": "CUORE",
+      "total_accessories": 48,
+      "total_shades": 211,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 77279,
+      "name": "MOSSET",
+      "total_accessories": 46,
+      "total_shades": 211,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 77336,
+      "name": "GADIR",
+      "total_accessories": 50,
+      "total_shades": 208,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 77459,
+      "name": "TAURUS",
+      "total_accessories": 90,
+      "total_shades": 349,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 77463,
+      "name": "STAR-V",
+      "total_accessories": 60,
+      "total_shades": 348,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 77619,
+      "name": "CIBELES",
+      "total_accessories": 0,
+      "total_shades": 340,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 78800,
+      "name": "IRLANDA",
+      "total_accessories": 47,
+      "total_shades": 472,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 81131,
+      "name": "FENDY",
+      "total_accessories": 35,
+      "total_shades": 2257,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 81132,
+      "name": "PRADA-G",
+      "total_accessories": 45,
+      "total_shades": 459,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 87236,
+      "name": "BERLIN",
+      "total_accessories": 69,
+      "total_shades": 459,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 87240,
+      "name": "MIADO",
+      "total_accessories": 26,
+      "total_shades": 108,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 91566,
+      "name": "ARMANI",
+      "total_accessories": 40,
+      "total_shades": 2257,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 91567,
+      "name": "AVIX",
+      "total_accessories": 12,
+      "total_shades": 2257,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 91568,
+      "name": "OLIMPO",
+      "total_accessories": 2,
+      "total_shades": 5,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 92136,
+      "name": "TANIA",
+      "total_accessories": 94,
+      "total_shades": 2253,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 92137,
+      "name": "FIONA",
+      "total_accessories": 16,
+      "total_shades": 352,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 92876,
+      "name": "GOLD",
+      "total_accessories": 3,
+      "total_shades": 2251,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 92882,
+      "name": "ALBANY",
+      "total_accessories": 15,
+      "total_shades": 2252,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 93042,
+      "name": "BAMBI",
+      "total_accessories": 48,
+      "total_shades": 2251,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 93211,
+      "name": "LISBON",
+      "total_accessories": 0,
+      "total_shades": 2252,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 93214,
+      "name": "EROS",
+      "total_accessories": 36,
+      "total_shades": 2252,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 93216,
+      "name": "URAL",
+      "total_accessories": 55,
+      "total_shades": 2252,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 95726,
+      "name": "LISBON_",
+      "total_accessories": 4,
+      "total_shades": 18,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 96457,
+      "name": "estrella",
+      "total_accessories": 1,
+      "total_shades": 4,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 96529,
+      "name": "greda",
+      "total_accessories": 1,
+      "total_shades": 3,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 97180,
+      "name": "PERLA",
+      "total_accessories": 1,
+      "total_shades": 3,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 97453,
+      "name": "Morris",
+      "total_accessories": 1,
+      "total_shades": 2,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 97657,
+      "name": "Smoky",
+      "total_accessories": 1,
+      "total_shades": 2,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 97688,
+      "name": "Balto",
+      "total_accessories": 1,
+      "total_shades": 2,
+      "status": "ok",
+      "error": null
+    },
+    {
+      "furniture_id": 97984,
+      "name": "Felicette",
+      "total_accessories": 1,
+      "total_shades": 3,
+      "status": "ok",
+      "error": null
+    }
+  ]
+}
